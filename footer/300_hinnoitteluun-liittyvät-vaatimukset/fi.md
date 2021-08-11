@@ -1,0 +1,1 @@
+# Hinnoitteluun liittyvät vaatimukset
