@@ -1,2 +1,2 @@
-# kotitori-content
+# Kotitori content
 Management of client portal static content
