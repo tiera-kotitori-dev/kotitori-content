@@ -1,4 +1,4 @@
-# Kotihoito-palvelut
+# Kotihoitopalvelut
 Palvelutuottajat sitoutuvat palvelutuotteissaan alla kuvattuihin yleisiin vaatimuksiin ja tuotekohtaisiin kuvauksiin.
 
 
