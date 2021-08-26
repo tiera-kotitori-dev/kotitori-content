@@ -44,4 +44,4 @@ Lääkehoito ja lääkejakelu ovat terveydenhuoltolaissa määriteltyä sairaanh
 
 Toimintayksikön tulee kirjata havaitsemansa asiakkaan lääkehoitovirheet ja ”läheltä piti” - tapahtumat osana asiakkaan palvelujen muuta kirjaamista. Vakavista viheistä ja poikkeamista tulee ilmoittaa asiakkaan lääkärille, kun asiasta on sovittu asiakkaan kanssa.
 
-Lääkehoidon toteutuksessa kotona valmius lääkäriyhteistyöhön tulee varmistaa.
+Lääkehoidon toteutuksessa kotona valmius lääkäriyhteistyöhön tulee varmistaa..
