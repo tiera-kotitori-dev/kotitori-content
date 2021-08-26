@@ -1,1 +1,0 @@
-# Yleiset vaatimukset palveluissa

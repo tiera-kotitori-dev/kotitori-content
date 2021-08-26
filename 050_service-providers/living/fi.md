@@ -3,6 +3,7 @@
 
 ## Hieronta- ja terveyspalvelut Janina Salmi
 [Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.living%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
 Takamaantie 1 H 15  
 33480 YLÖJÄRVI  
 0405161055  
@@ -17,6 +18,7 @@ Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan
 
 ## Viola-kotiyhdistys ry
 [www.viola-koti.fi](www.viola-koti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpaivi.rantanen%40viola-koti.fi%26serviceType%3Dcategory.living%26companyName%3DViola-kotiyhdistys+ry)  
 Juhlatalonkatu 4  
 33100 TAMPERE  
 03 31415300  
@@ -30,6 +32,7 @@ Päiväkeskuspäivän voi maksaa yksityisesti rahalla 65€/päivä tai Tamperee
 
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtampereenkotihoiva%40gmail.com%26serviceType%3Dcategory.living%26companyName%3DTampereen+Kotihoiva)  
 Kaukajärvi  
 33710 Tampere  
 050 4058 548  

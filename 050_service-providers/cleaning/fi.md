@@ -3,6 +3,7 @@
 
 ## Viola-kotiyhdistys ry
 [www.viola-koti.fi](www.viola-koti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpaivi.rantanen%40viola-koti.fi%26serviceType%3Dcategory.cleaning%26companyName%3DViola-kotiyhdistys+ry)  
 Juhlatalonkatu 4  
 33100 TAMPERE  
 03 31415300  
@@ -12,71 +13,9 @@ Ikkuna- ja parvekelasien pesua. Puhdistamme myös sälekaihtimet ja siirtelemme 
 ### Käynnin pituus sovitaan asiakkaan tarpeen mukaan.
 
 
-## Siivouspalvelu Satu
-[www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
-Lehdistöntie 35  
-35300 Orivesi  
-044 333 5599  
-Yrityksemme tarjoaa laadukkaita siivouspalveluita Tampereen   
-kaupunkiseudulla kaikille niitä tarvitseville. Käytämme kotimaisia   
-ympäristöystävällisiä puhdistusaineita. Asiakkaan luona käy aina sama   
-tuttu siivooja. Tuntihintamme on sama kaikille tuottamillemme   
-palveluille. Olemme rekisteröityneet useaan kuntaan sosiaalipalveluiden   
-tuottajaksi. Selvitämme asiakkaan mahdollisuuden arvonlisäverottomaan   
-palveluun.  
-  
-  
-
-### 39.68 - 39.68
-
-
-## Siivouspalvelu Satu
-[www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
-Lehdistöntie 35  
-35300 Orivesi  
-044 333 5599  
-  
-Yrityksemme tarjoaa laadukkaita siivouspalveluita Tampereen   
-kaupunkiseudulla kaikille niitä tarvitseville. Käytämme kotimaisia   
-ympäristöystävällisiä puhdistusaineita. Asiakkaan luona käy aina sama   
-tuttu siivooja. Tuntihintamme on sama kaikille tuottamillemme   
-palveluille. Olemme rekisteröityneet useaan kuntaan sosiaalipalveluiden   
-tuottajaksi. Selvitämme asiakkaan mahdollisuuden arvonlisäverottomaan   
-palveluun.  
-  
-  
-
-### 39.68 - 39.68
-
-
-## Koti- ja juhlapalvelu Docella
-[www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
-Takamaantie 1 E 10  
-33480 Ylöjärvi  
-040 570 1797  
-Siivoan kotisi moitteettomaan kuntoon asunnon luovuttamista varten tai uuden asunnon käyttöönottamiseksi.  
-
-### 36.0 - 39.0
-### 38 € tuntiveloitushinta on voimassa arkisin klo 18 jälkeen ja viikonloppuisin.
-
-
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Autamme asiakkaitamme kodin ylläpito- ja suursiivouksissa, jotka   
-suunnitellaan aina vastaamaan asiakkaan henkilökohtaisia tarpeita.   
-Teemme myös ikkunoiden ja parvekelasien pesuja.  
-  
-  
-
-### 39.9 - 45.9
-### Hinta on arkisin klo 6-18. Iltalisä 15 % (18-21), lauantailisä 25 %, sunnuntasin ja  pyhinä 100 %
-
-
 ## K-SIIVOUS TAMPERE OY
 [www.ksiivoustampere.fi](www.ksiivoustampere.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjo.karvonen%40ksiivoustampere.fi%26serviceType%3Dcategory.cleaning%26companyName%3DK-SIIVOUS+TAMPERE+OY)  
 Näsilinnankatu 32 C 45  
 33200 Tampere  
 0504333239  
@@ -86,19 +25,60 @@ Kotisiivousta ekologisilla puhdistusaineilla. Erillisen sopimuksen mukaan myös 
 ### 40€/h/työpari (alv 0%), 49,60€/h/työpari (alv 24%)
 
 
+## Koti- ja juhlapalvelu Docella
+[www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djaana.makinen%40docella.fi%26serviceType%3Dcategory.cleaning%26companyName%3DKoti-+ja+juhlapalvelu+Docella)  
+Takamaantie 1 E 10  
+33480 Ylöjärvi  
+040 570 1797  
+Siivoan kotisi moitteettomaan kuntoon asunnon luovuttamista varten tai uuden asunnon käyttöönottamiseksi.  
+
+### 36.0 - 39.0
+### 38 € tuntiveloitushinta on voimassa arkisin klo 18 jälkeen ja viikonloppuisin.
+
+
+## Siivouspalvelu Satu
+[www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dsatun.siivouspalvelu%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSiivouspalvelu+Satu)  
+Lehdistöntie 35  
+35300 Orivesi  
+044 333 5599  
+  
+Yrityksemme tarjoaa laadukkaita siivouspalveluita Tampereen   
+kaupunkiseudulla kaikille niitä tarvitseville. Käytämme kotimaisia   
+ympäristöystävällisiä puhdistusaineita. Asiakkaan luona käy aina sama   
+tuttu siivooja. Tuntihintamme on sama kaikille tuottamillemme   
+palveluille. Olemme rekisteröityneet useaan kuntaan sosiaalipalveluiden   
+tuottajaksi. Selvitämme asiakkaan mahdollisuuden arvonlisäverottomaan   
+palveluun.  
+  
+  
+
+### 39.68 - 39.68
+
+
+## Siivouspalvelu Satu
+[www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dsatun.siivouspalvelu%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSiivouspalvelu+Satu)  
+Lehdistöntie 35  
+35300 Orivesi  
+044 333 5599  
+Yrityksemme tarjoaa laadukkaita siivouspalveluita Tampereen   
+kaupunkiseudulla kaikille niitä tarvitseville. Käytämme kotimaisia   
+ympäristöystävällisiä puhdistusaineita. Asiakkaan luona käy aina sama   
+tuttu siivooja. Tuntihintamme on sama kaikille tuottamillemme   
+palveluille. Olemme rekisteröityneet useaan kuntaan sosiaalipalveluiden   
+tuottajaksi. Selvitämme asiakkaan mahdollisuuden arvonlisäverottomaan   
+palveluun.  
+  
+  
+
+### 39.68 - 39.68
+
+
 ## Apukolmio Oy
 [www.apukolmio.fi](www.apukolmio.fi)  
-Näsilinnankatu 22 A 38  
-33210 Tampere  
-010 2924 300  
-Kotisiivouspalvelut kattavasti ApukolmiostaSiivouspalvelut ovat eniten kysyttyjä palvelujamme. Siisti koti on tärkeä asia. Teemme maksuttoman arvointikäynnin uuden asiakkaamme luokse. Ja aina kirjallisen palvelusopimuksen. Siivoustyö tehdään asiakkaan toivomana ajankohtana ja aikataulu suunnitellaan asiakkaan toivomuksen mukaan. Oma kodinhoitajaAsiakkaamme arvostavat sitä, että Apukolmiosta saa oman nimetyn kodinhoitajan. Oma tuttu siivooja oppii tuntemaan sekä sinut asiakkaana, kuin myös toiveesi kotisi siivoustöiden osalta. Asiakkaan aineet ja välineetHygieniasyistä johtuen siivoamme pääsääntöisesti asiakkaan omilla aineilla ja välineillä.  Siivousvälineiden kuljettaminen kodista toiseen muodostaa aina ongelman - siirtyykö välineistä pölyä ja pöpöjä kodista toiseen. Useat asiakkaamme ovat allergisia tai kärsivät esim astmasta. Näistä syistä johtuen päädyimme asiakkaamme kannalta parhaaseen mahdolliseen ratkaisuun - käytämme työssä asiakkaan siivousvälineitä ja aineita. Autamme toki hyvien välineiden hankinnassa ja voimme tuoda ne paikalle ensimmäisellä siivouskerralla.   
-
-### 44.64 - 44.64
-### Siivoamme hygieniasyistä johtuen pääsääntöisesti asiakkaan aineilla ja välineillä. Mikäli tuomme siivousvälineet ja aineet mukana, veloitamme siitä 28e/tuontikerta.  Tampereen ulkopuolelle matkakorvaus 0,50e/km.
-
-
-## Apukolmio Oy
-[www.apukolmio.fi](www.apukolmio.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dinfo%40apukolmio.fi%26serviceType%3Dcategory.cleaning%26companyName%3DApukolmio+Oy)  
 Näsilinnankatu 22 A 38  
 33210 Tampere  
 010 2924 300  
@@ -107,8 +87,20 @@ RaivaussiivousOnko sinulla tilanne, jossa kotisi tai omaisen koti on raivattava 
 ### Muutto-, raivaus-, ja erikoissiivouksissa teemme aina arviointikäynnin ennen tilauksen hyväskymistä. Perustuntiveloitus kattaa normaalin siivous/raivaustyön. Mikäli työssä tarvitaan pakkauslaatioikoita, ammattilaisten apua tms, veloitamme näistä asiakkaan kanssa sovitun korvauksen. Muuttoauto tai tavaran toimittaminen kaatopaikalle tms, veloitetaan erikseen. Tampereen keskustan ulkopuolelle veloitamme km-korvauksen 0,50e/km.
 
 
+## Sillä Siisti Marjo Oy
+[www.tmisillasiisti.fi](www.tmisillasiisti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjokaarina.somppi%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSill%C3%A4+Siisti+Marjo+Oy)  
+Naulatie 3  
+35100 Orivesi  
+044 2625 646  
+
+### 43.4 - 55.8
+### Mikäli siivous sisältää jätteiden kuljetuksen jäteasemalle, veloitamme lisäksi jätteenkäsittelymaksun sekä matkakorvauksen 0,50 €/km.
+
+
 ## Apunalle
 [www.apunalle.fi](www.apunalle.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dasiakaspalvelu%40apunalle.fi%26serviceType%3Dcategory.cleaning%26companyName%3DApunalle)  
 Nuijatie 35 G 90  
 33710 Tampere  
 0453207375  
@@ -121,18 +113,21 @@ Apunalle siivoaa puolestasi, toiveidesi mukaisesti. Imurointi, pölyjenpyyhintä
 ### Minimilaskutus 2h. Hinta on arkisin 8-17, lauantailisä 25 %, sunnuntaisin ja pyhinä 100%
 
 
+## Apukolmio Oy
+[www.apukolmio.fi](www.apukolmio.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dinfo%40apukolmio.fi%26serviceType%3Dcategory.cleaning%26companyName%3DApukolmio+Oy)  
+Näsilinnankatu 22 A 38  
+33210 Tampere  
+010 2924 300  
+Kotisiivouspalvelut kattavasti ApukolmiostaSiivouspalvelut ovat eniten kysyttyjä palvelujamme. Siisti koti on tärkeä asia. Teemme maksuttoman arvointikäynnin uuden asiakkaamme luokse. Ja aina kirjallisen palvelusopimuksen. Siivoustyö tehdään asiakkaan toivomana ajankohtana ja aikataulu suunnitellaan asiakkaan toivomuksen mukaan. Oma kodinhoitajaAsiakkaamme arvostavat sitä, että Apukolmiosta saa oman nimetyn kodinhoitajan. Oma tuttu siivooja oppii tuntemaan sekä sinut asiakkaana, kuin myös toiveesi kotisi siivoustöiden osalta. Asiakkaan aineet ja välineetHygieniasyistä johtuen siivoamme pääsääntöisesti asiakkaan omilla aineilla ja välineillä.  Siivousvälineiden kuljettaminen kodista toiseen muodostaa aina ongelman - siirtyykö välineistä pölyä ja pöpöjä kodista toiseen. Useat asiakkaamme ovat allergisia tai kärsivät esim astmasta. Näistä syistä johtuen päädyimme asiakkaamme kannalta parhaaseen mahdolliseen ratkaisuun - käytämme työssä asiakkaan siivousvälineitä ja aineita. Autamme toki hyvien välineiden hankinnassa ja voimme tuoda ne paikalle ensimmäisellä siivouskerralla.   
+
+### 44.64 - 44.64
+### Siivoamme hygieniasyistä johtuen pääsääntöisesti asiakkaan aineilla ja välineillä. Mikäli tuomme siivousvälineet ja aineet mukana, veloitamme siitä 28e/tuontikerta.  Tampereen ulkopuolelle matkakorvaus 0,50e/km.
+
+
 ## Sillä Siisti Marjo Oy
 [www.tmisillasiisti.fi](www.tmisillasiisti.fi)  
-Naulatie 3  
-35100 Orivesi  
-044 2625 646  
-
-### 43.4 - 55.8
-### Mikäli siivous sisältää jätteiden kuljetuksen jäteasemalle, veloitamme lisäksi jätteenkäsittelymaksun sekä matkakorvauksen 0,50 €/km.
-
-
-## Sillä Siisti Marjo Oy
-[www.tmisillasiisti.fi](www.tmisillasiisti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjokaarina.somppi%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSill%C3%A4+Siisti+Marjo+Oy)  
 Naulatie 3  
 35100 Orivesi  
 044 2625 646  
@@ -141,8 +136,35 @@ Naulatie 3
 ### Mikäli siivous sisältää jätteiden kuljetuksen jäteasemalle, veloitamme lisäksi jätteenkäsittelymaksun sekä matkakorvauksen 0,50 €/km.
 
 
+## Tampereen Kotihoiva
+[www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtampereenkotihoiva%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DTampereen+Kotihoiva)  
+Kaukajärvi  
+33710 Tampere  
+050 4058 548  
+Kotisiivoukset asiakkaan toiveiden mukaan. Perussiivouksemme sisältää yleensä esim. tiskauksen, pöytätasojen pyyhinnän, pölyjen pyyhinnän tasoilta ulottuvuuskorkeudelta, peilien pyyhinnän, imuroinnin, lattioiden pyyhinnän kostealla, wc:n puhdistuksen ja roskien viennin.Sopimuksen mukaan esim. kylpyhuoneen ja saunan pesu, mattojen ulosvienti, vuodevaatteiden vaihto, ikkunanpesut.Välineiden käyttö ja puhdistusaineet sisältyvät hintaan.  
+
+### 39.68 - 39.68
+### Hinta arkisin ma-pe klo 8-17. Veroton hinta 32,00 euroa/h. Hinnat per henkilötyötunti. Minimiveloitus 1 h.
+
+
+## Miracle-palvelut Oy
+[www.miraclepalvelut.fi](www.miraclepalvelut.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmira%40miraclepalvelut.fi%26serviceType%3Dcategory.cleaning%26companyName%3DMiracle-palvelut+Oy)  
+Nyyrikintie 14  
+33540 Tampere  
+0505352798  
+Säännöllistä ja kertaluontoista kotisiivousta jo  yli 17 vuoden kokemuksella. Siivous tehdään yrityksen siivousvälineillä. Käytämme laadukkaita ammattilaisten välineitä ja aineita. Uusi Liinavaatevaihtopalvelu keväällä 2020. Tuomme puhtaat lakanat ja viemme likaiset pesuun. Hinnat alkaen 14,90€/setti kotisiivouksen yhteydessä.<a href="https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/"></a><a href="https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/" target="_blank">https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/</a>  
+  
+  
+
+### 43.5 - 48.5
+### Säännöllisen ylläpitosiivouksen tuntihinta per hlö. Minimilaskutus 2h.
+
+
 ## Hieronta- ja terveyspalvelut Janina Salmi
 [Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.cleaning%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
 Takamaantie 1 H 15  
 33480 YLÖJÄRVI  
 0405161055  
@@ -158,42 +180,8 @@ Palvelun hinta arkisin klo 08-17 36e/h, alv0%. Hintaan lisätään matkakulut as
 ### 36e/h arkisin. Kaikki palveluni ovat alv0.
 
 
-## Miracle-palvelut Oy
-[www.miraclepalvelut.fi](www.miraclepalvelut.fi)  
-Nyyrikintie 14  
-33540 Tampere  
-0505352798  
-Säännöllistä ja kertaluontoista kotisiivousta jo  yli 17 vuoden kokemuksella. Siivous tehdään yrityksen siivousvälineillä. Käytämme laadukkaita ammattilaisten välineitä ja aineita. Uusi Liinavaatevaihtopalvelu keväällä 2020. Tuomme puhtaat lakanat ja viemme likaiset pesuun. Hinnat alkaen 14,90€/setti kotisiivouksen yhteydessä.<a href="https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/"></a><a href="https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/" target="_blank">https://www.miraclepalvelut.fi/liinavaatevaihtopalvelu/</a>  
-  
-  
-
-### 43.5 - 48.5
-### Säännöllisen ylläpitosiivouksen tuntihinta per hlö. Minimilaskutus 2h.
-
-
-## Tampereen Kotihoiva
-[www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
-Kaukajärvi  
-33710 Tampere  
-050 4058 548  
-Kotisiivoukset asiakkaan toiveiden mukaan. Perussiivouksemme sisältää yleensä esim. tiskauksen, pöytätasojen pyyhinnän, pölyjen pyyhinnän tasoilta ulottuvuuskorkeudelta, peilien pyyhinnän, imuroinnin, lattioiden pyyhinnän kostealla, wc:n puhdistuksen ja roskien viennin.Sopimuksen mukaan esim. kylpyhuoneen ja saunan pesu, mattojen ulosvienti, vuodevaatteiden vaihto, ikkunanpesut.Välineiden käyttö ja puhdistusaineet sisältyvät hintaan.  
-
-### 39.68 - 39.68
-### Hinta arkisin ma-pe klo 8-17. Veroton hinta 32,00 euroa/h. Hinnat per henkilötyötunti. Minimiveloitus 1 h.
-
-
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Säännölliset ja kertaluontoiset siivoukset. Teemme maksuttoman arviointikäynnin uuden asiakkaamme luokse ja kirjallisen palvelusopimuksen. Siivoustyö tehdään asiakkaan toiveiden mukaan  ja aikataulu suunnitellaan asiakkaan toivomuksen mukaan.   
-
-### 39.9 - 45.9
-### Tuntihinta per hlö. Minimilaskutus 2h. Sis. alv. 24%
-
-
 ## MilliMaili
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmaili.stolt%40millimaili.fi%26serviceType%3Dcategory.cleaning%26companyName%3DMilliMaili)  
 Lapintie 5 B 52  
 33100 Tampere  
 0405937117  
@@ -204,6 +192,7 @@ Tuon kaikki tarvittavat työvälineet/aineet. 
 
 ## Apukolmio Oy
 [www.apukolmio.fi](www.apukolmio.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dinfo%40apukolmio.fi%26serviceType%3Dcategory.cleaning%26companyName%3DApukolmio+Oy)  
 Näsilinnankatu 22 A 38  
 33210 Tampere  
 010 2924 300  
@@ -212,8 +201,19 @@ MuuttosiivouspalvelutOnko muutto edessä? Tilaa muuttosiivouspalvelut Apukolmios
 ### Myös muuttopalvelut sekä ammattijärjestäjän palvelut kauttamme. Tampereen ulkopuolelle veloitamme matkakorvauksen 0,50e/km.
 
 
+## MilliMaili
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmaili.stolt%40millimaili.fi%26serviceType%3Dcategory.cleaning%26companyName%3DMilliMaili)  
+Lapintie 5 B 52  
+33100 Tampere  
+0405937117  
+Kaikkea mahdollista kotisiivousta ja järjestelyä, jossa tarvitset apua. 
+### 43.4 - 43.4
+### Veroton tuntihinta 35€. Työ tehdään yksin. Minimiveloitus 2h.
+
+
 ## Kotipalvelu Muurahainen
 [www.muurahainenkp.fi](www.muurahainenkp.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dinfo%40muurahainenkp.fi%26serviceType%3Dcategory.cleaning%26companyName%3DKotipalvelu+Muurahainen)  
 Multiojankatu 28 g 56  
 33850 Tampere  
 040 717 1409  
@@ -224,39 +224,9 @@ Ammattitaitoista ja jotuistaa siivousta ja kodinhoitoa järkevässä ajassa asia
 Hinta on alv 0%.
 
 
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Kodin ylläpito- ja suursiivouksia, jotka suunnitellaan aina asiakkaan yksilöllisten toiveiden mukaisesti. Teemme myös raivaus- ja muuttosiivouksia, teemme aina ensin arviointikäynnin ja yhdessä asiakkaan kanssa sovimme siivouksen sisällöstä.  
-
-### 45.9 - 45.9
-### Raivaussiivoukset vain arkisin. Jätteiden kuljetuksen jäteasemalle veloitamme lisäksi jätteenkäsittelymaksun sekä matkakorvauksen 0,45 €/km.
-
-
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Tilaa muuttosiivouspalvelut  sekä vanhaan että uuteen kotiin.   
-
-### 45.9 - 68.2
-### Minimilaskutus 2 henkilötyötuntia. Jätteiden kuljetuksesta  jäteasemalle veloitamme lisäksi jätteenkäsittelymaksun sekä matkakorvauksen 0,45 €/km.
-
-
-## MilliMaili
-Lapintie 5 B 52  
-33100 Tampere  
-0405937117  
-Kaikkea mahdollista kotisiivousta ja järjestelyä, jossa tarvitset apua. 
-### 43.4 - 43.4
-### Veroton tuntihinta 35€. Työ tehdään yksin. Minimiveloitus 2h.
-
-
 ## Koti- ja juhlapalvelu Docella
 [www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djaana.makinen%40docella.fi%26serviceType%3Dcategory.cleaning%26companyName%3DKoti-+ja+juhlapalvelu+Docella)  
 Takamaantie 1 E 10  
 33480 Ylöjärvi  
 040 570 1797  
@@ -268,6 +238,7 @@ Tulen avuksesi, jos yksityiskoti vaatii suurempaa raivausta ja tavaroiden toimit
 
 ## Mattomaisteri Ky
 [www.mattomaisteri.fi](www.mattomaisteri.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Deija%40mattomaisteri.fi%26serviceType%3Dcategory.cleaning%26companyName%3DMattomaisteri+Ky)  
 Leppästentie 6  
 35100 Orivesi  
 040 664 5175  
@@ -288,18 +259,9 @@ Petauspatjan pesun hinta on 1-hengen patjalta 40 € (sis. 24 % alv) ja 2-hengen
 Kalustepesussa hinnat määräytyvät kalusteen koon ja verhoilutavan mukaan.
 
 
-## Näsin Siivous
-[www.nasinsiivous.fi](www.nasinsiivous.fi)  
-Mustanlahdenkatu 4 A 5  
-33210 TAMPERE  
-0400234361  
-Yksilöllistä siivouspalvelua asiakkaan tarpeista lähtöisin. Kaikki siivouspalvelut ja pienimuotoista pihatyötä. Ikkunoiden pesua myös talvisin. Käytämme omia välineitä tai asiakkaan välineitä niin halutessaan. Mikäli on alentunut toimintakyky niin alv. on 0 % ja lisäksi kotitalousvähennys. Perheyritys ja lähes 40 vuoden toiminta alalla. Pisimmät asiakassuhteet  jopa 30 vuotta. Ei jatkuvasti vaihtuvaa henkilökuntaa eli samat henkilöt aina kohteessa. Suojaimia käytetään. Myös hygieniapassi suoritettu. Toimimme koko pirkanmaan alueella.
-### 42.0 - 42.0
-### Aine ja matkakulut keskusta ja lähiöt normaali käynti 13 € + pysäköintikulut.
-
-
 ## Sillä Siisti Marjo Oy
 [www.tmisillasiisti.fi](www.tmisillasiisti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjokaarina.somppi%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSill%C3%A4+Siisti+Marjo+Oy)  
 Naulatie 3  
 35100 Orivesi  
 044 2625 646  
@@ -308,8 +270,20 @@ Naulatie 3
 ### Mikäli ikkunan yläreuna on yli 3 m korkeudella tasaiselta alustalta, hinta sovitaan tapauskohtaisesti.
 
 
+## Näsin Siivous
+[www.nasinsiivous.fi](www.nasinsiivous.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dnasi%40nasinsiivous.fi%26serviceType%3Dcategory.cleaning%26companyName%3DN%C3%A4sin+Siivous)  
+Mustanlahdenkatu 4 A 5  
+33210 TAMPERE  
+0400234361  
+Yksilöllistä siivouspalvelua asiakkaan tarpeista lähtöisin. Kaikki siivouspalvelut ja pienimuotoista pihatyötä. Ikkunoiden pesua myös talvisin. Käytämme omia välineitä tai asiakkaan välineitä niin halutessaan. Mikäli on alentunut toimintakyky niin alv. on 0 % ja lisäksi kotitalousvähennys. Perheyritys ja lähes 40 vuoden toiminta alalla. Pisimmät asiakassuhteet  jopa 30 vuotta. Ei jatkuvasti vaihtuvaa henkilökuntaa eli samat henkilöt aina kohteessa. Suojaimia käytetään. Myös hygieniapassi suoritettu. Toimimme koko pirkanmaan alueella.
+### 42.0 - 42.0
+### Aine ja matkakulut keskusta ja lähiöt normaali käynti 13 € + pysäköintikulut.
+
+
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtampereenkotihoiva%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DTampereen+Kotihoiva)  
 Kaukajärvi  
 33710 Tampere  
 050 4058 548  
@@ -321,6 +295,7 @@ Ikkunanpesu
 
 ## Amurin Teon Tupa ry
 [www.teory.fi](www.teory.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.cleaning%26companyName%3DAmurin+Teon+Tupa+ry)  
 Satakunnankatu 38  
 33210 Tampere  
 050 358 0072  
@@ -332,22 +307,9 @@ hinta määräytyy asiakkaan kanssa sovitun aineen tai välineen veloitushinnan 
 ### Huom! Olemme arvonlisäveroton yleishyödyllinen toimija, tuntihintamme ovat arvonlisäverottomia.
 
 
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Kotisiivous voi olla säännöllistä tai tilapäistä. Siivouspalvelu on kodin yleissiivousta, joka sisältää mm. imurointia, pölyjen pyyhintää, lattian pesua ym. Siivous tapahtuu suunnitelmallisesti asiakkaan toiveiden mukaan. Pääsääntöisesti asiakkaan luona käy sama työntekijä. Siivous tapahtuu tilaajan aineilla ja välineillä. Ei kilometrikorvausta, mikäli kohteeseen pääsee julkisella kulkuvälineellä (bussilla). Rekisteröitynä yrityksenä tarjoan arvonlisäverotonta palvelua Tampereella ja Nokialla, jos asiakkaalla on jokin vika, vamma tai sairaus. Palvelusta tehdään kirjallinen sopimus. Palvelusta voi hakea kotitalousvähennyksen.   
-  
-   
-  
-
-### 41.0 - 41.0
-### Minimilaskutus 2 tuntia. Veroton hinta 33,06 €/tunti.
-
-
 ## Siivouspalvelu Satu
 [www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dsatun.siivouspalvelu%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DSiivouspalvelu+Satu)  
 Lehdistöntie 35  
 35300 Orivesi  
 044 333 5599  
@@ -367,6 +329,22 @@ palveluun.
 
 ## Kotipalvelu Kukka Oy
 [www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DKotipalvelu+Kukka+Oy)  
+Hatanpään valtatie 6 B 17  
+33100 Tampere  
+0503225756  
+Kotisiivous voi olla säännöllistä tai tilapäistä. Siivouspalvelu on kodin yleissiivousta, joka sisältää mm. imurointia, pölyjen pyyhintää, lattian pesua ym. Siivous tapahtuu suunnitelmallisesti asiakkaan toiveiden mukaan. Pääsääntöisesti asiakkaan luona käy sama työntekijä. Siivous tapahtuu tilaajan aineilla ja välineillä. Ei kilometrikorvausta, mikäli kohteeseen pääsee julkisella kulkuvälineellä (bussilla). Rekisteröitynä yrityksenä tarjoan arvonlisäverotonta palvelua Tampereella ja Nokialla, jos asiakkaalla on jokin vika, vamma tai sairaus. Palvelusta tehdään kirjallinen sopimus. Palvelusta voi hakea kotitalousvähennyksen.   
+  
+   
+  
+
+### 41.0 - 41.0
+### Minimilaskutus 2 tuntia. Veroton hinta 33,06 €/tunti.
+
+
+## Kotipalvelu Kukka Oy
+[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DKotipalvelu+Kukka+Oy)  
 Hatanpään valtatie 6 B 17  
 33100 Tampere  
 0503225756  

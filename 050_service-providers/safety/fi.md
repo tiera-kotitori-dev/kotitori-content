@@ -3,6 +3,7 @@
 
 ## Hämeen Ensiapupalvelut Oy
 [www.hepa.fi](www.hepa.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Darttu.jarvi%40hepa.fi%26serviceType%3Dcategory.safety%26companyName%3DH%C3%A4meen+Ensiapupalvelut+Oy)  
 Sudenkatu 4  
 33530 Tampere  
 0400137768  

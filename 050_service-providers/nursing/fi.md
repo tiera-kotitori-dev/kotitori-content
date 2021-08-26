@@ -3,17 +3,7 @@
 
 ## Ikifit Oy
 [www.ikifit.fi](www.ikifit.fi)  
-Puutarhakatu 37  
-33230 Tampere  
-0207342650  
-Laboratorionäytteenotto sekä terveyskeskuslääkärin että yksityislääkärin lähetteellä.  
-
-### 49.5 - 89.0
-### Minimilaskutus on 1 tunti/käynti, tunnin ylittävä osuus 15 minuutin tarkkuudella. Palvelusta peritään kilometrikorvau: 5,00 ensimmäiset 5 km, ylimenevät 0.44/ km.
-
-
-## Ikifit Oy
-[www.ikifit.fi](www.ikifit.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjo.sirkeoja%40ikifit.fi%26serviceType%3Dcategory.nursing%26companyName%3DIkifit+Oy)  
 Puutarhakatu 37  
 33230 Tampere  
 0207342650  
@@ -24,21 +14,9 @@ Emme tuota ko. palvelua henkilölle, joka ei ole oikeutettu arvonlisäverottomaa
 ### Hinta on tuntihinta. Minimilaskutus on 1 tunti/käynti, tunnin ylittävä osuus 15 minuutin tarkkuudella. Palvelusta peritään kilometrikorvau: 5,00 ensimmäiset 5 km, ylimenevät 0.44/ km.
 
 
-## Viola-kotiyhdistys ry
-[www.viola-koti.fi](www.viola-koti.fi)  
-Juhlatalonkatu 4  
-33100 TAMPERE  
-03 31415300  
-Tarjoamme kotihoitoa Tampellan alueella esimerkiksi:- suihkussa/ saunassa/ peseytymisessä avustaminen- henkilökohtaisessa päivittäishygieniassa huolehtiminen- kodinhoidolliset työt, kuten pyykinpesu ja silittäminen ja siivoaminen- kaupassa asiointi (myös yhdessä asiakkaan kanssa)- ruokapalvelut (tuodaan valmis ruoka Viola-kodin ravintolasta tai valmistetaan ruoka kotona asiakkaan toiveiden mukaan)- asiointiapua (viranomaisasioissa tai muissa asioissa)- ulkoilu yhdessä asiakkaan kanssa  
-  
-  
-
-### 45.88 - 45.88
-### Käynnin pituus sovittaan asiakkaan tarpeen mukaan.  Ilta ja viikonloppukäynneistä erillinen hinnasto ja käyntejä vain Viola-kodin kortteleihin sopimuksen mukaan.
-
-
 ## Pirkanmaan Kotituki
 [www.pirkanmaankotituki.fi](www.pirkanmaankotituki.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpirkanmaan.kotituki%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DPirkanmaan+Kotituki)  
 Pukkisaarenkatu 2 B 32  
 33300 Tampere  
 0400806064  
@@ -57,8 +35,21 @@ Lämminhenkistä apua asiakkaan toiveiden ja tarpeiden mukaisesti.
 ### Hinta  arkisin 7-18 35,96€.  Arki-ilta 18-22 ja la 7-18  40,92€. La ilta 18-22  ja su 7-18  47,12€.  Su 18-22  60,76€.  Minimiveloitus 2h.
 
 
+## Ikifit Oy
+[www.ikifit.fi](www.ikifit.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjo.sirkeoja%40ikifit.fi%26serviceType%3Dcategory.nursing%26companyName%3DIkifit+Oy)  
+Puutarhakatu 37  
+33230 Tampere  
+0207342650  
+Laboratorionäytteenotto sekä terveyskeskuslääkärin että yksityislääkärin lähetteellä.  
+
+### 49.5 - 89.0
+### Minimilaskutus on 1 tunti/käynti, tunnin ylittävä osuus 15 minuutin tarkkuudella. Palvelusta peritään kilometrikorvau: 5,00 ensimmäiset 5 km, ylimenevät 0.44/ km.
+
+
 ## Sinun hoiva Oy
 [www.sinunhoiva.fi](www.sinunhoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Danni.juntunen%40sinunhoiva.fi%26serviceType%3Dcategory.nursing%26companyName%3DSinun+hoiva+Oy)  
 Hatanpään Valtatie 34, E  
 33100 Tampere  
 044 709 7914  
@@ -80,20 +71,23 @@ Sinun hoiva Oy on Tampereella omaishoidon palvelusetelituottaja.
 ### Arkisin klo 7-18 välillä tuntihinta on 36 euroa. Minimikäynti on 30 minuuttia.
 
 
-## Hoiva Vitadi
-[www.vitadi.fi](www.vitadi.fi)  
-Puuvillatehtaankatu 10  
-33210 Tampere  
-0440970703  
-Vammaispalvelun ja omaishoidon palvelusetelit  
+## Viola-kotiyhdistys ry
+[www.viola-koti.fi](www.viola-koti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpaivi.rantanen%40viola-koti.fi%26serviceType%3Dcategory.nursing%26companyName%3DViola-kotiyhdistys+ry)  
+Juhlatalonkatu 4  
+33100 TAMPERE  
+03 31415300  
+Tarjoamme kotihoitoa Tampellan alueella esimerkiksi:- suihkussa/ saunassa/ peseytymisessä avustaminen- henkilökohtaisessa päivittäishygieniassa huolehtiminen- kodinhoidolliset työt, kuten pyykinpesu ja silittäminen ja siivoaminen- kaupassa asiointi (myös yhdessä asiakkaan kanssa)- ruokapalvelut (tuodaan valmis ruoka Viola-kodin ravintolasta tai valmistetaan ruoka kotona asiakkaan toiveiden mukaan)- asiointiapua (viranomaisasioissa tai muissa asioissa)- ulkoilu yhdessä asiakkaan kanssa  
   
   
 
-### 33.0 - 33.0
+### 45.88 - 45.88
+### Käynnin pituus sovittaan asiakkaan tarpeen mukaan.  Ilta ja viikonloppukäynneistä erillinen hinnasto ja käyntejä vain Viola-kodin kortteleihin sopimuksen mukaan.
 
 
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtampereenkotihoiva%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DTampereen+Kotihoiva)  
 Kaukajärvi  
 33710 Tampere  
 050 4058 548  
@@ -104,8 +98,22 @@ Kotisairaanhoidon hinta on veroton.
 ### Kotisairaanhoitopalvelut ovat verottomia. Hinta arkisin ma-pe klo 8-17.
 
 
+## Hoiva Vitadi
+[www.vitadi.fi](www.vitadi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DHoiva+Vitadi)  
+Puuvillatehtaankatu 10  
+33210 Tampere  
+0440970703  
+Vammaispalvelun ja omaishoidon palvelusetelit  
+  
+  
+
+### 33.0 - 33.0
+
+
 ## Mesimarja, Mesimarjasi Oy
 [www.mesimarjasi.fi](www.mesimarjasi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dville.vuolukka%40mesimarjasi.fi%26serviceType%3Dcategory.nursing%26companyName%3DMesimarja%2C+Mesimarjasi+Oy)  
 Pyhäjärvenkatu 5A  
 33200 Tampere  
 0104117700  
@@ -114,23 +122,9 @@ Mesimarjan sairaanhoitajat palvelevat asiakasta kaikissa vaativissakin kotisaira
 ### Hinta Arkisin klo 7-18 muina aikoina normaali ilta/yö ja viikonloppulisä.
 
 
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Koulutetut &quot; Helkamme&quot; auttavat asiakkaita kaikissa kodin   
-töissä, kuten ruuanvalmistuksessa, asioinnissa, pyykkihuollossa, hygieniassa  
-siivouksessa ja kodin ulkotöissä. Olemme myös asiointiapuna  ja autamme eri palveluiden kanssa yhteistyössä jotta asiakkaan arki on mahdollisimman hyvä.  
-  
-  
-
-### 39.9 - 45.9
-### Hinta on arkisin 8-18. Iltalisä 15 % (18-21), lauantailisä 25 %, sunnuntaisin ja pyhinä 100 %
-
-
 ## Viola-kotiyhdistys ry
 [www.viola-koti.fi](www.viola-koti.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpaivi.rantanen%40viola-koti.fi%26serviceType%3Dcategory.nursing%26companyName%3DViola-kotiyhdistys+ry)  
 Juhlatalonkatu 4  
 33100 TAMPERE  
 03 31415300  
@@ -144,6 +138,7 @@ Tarjoamme kotihoitoa  Tampellan alueella esimerkiksi:- suihkussa/ saunassa/ pes
 
 ## Hoiva Vitadi
 [www.vitadi.fi](www.vitadi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DHoiva+Vitadi)  
 Puuvillatehtaankatu 10  
 33210 Tampere  
 0440970703  
@@ -154,8 +149,20 @@ Asiointi- ja saattoapu, esim. kauppa- ja apteekkiasiat, lääkärissäkäynnit, 
 ### 33.0 - 33.0
 
 
+## Mesimarja, Mesimarjasi Oy
+[www.mesimarjasi.fi](www.mesimarjasi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dville.vuolukka%40mesimarjasi.fi%26serviceType%3Dcategory.nursing%26companyName%3DMesimarja%2C+Mesimarjasi+Oy)  
+Pyhäjärvenkatu 5A  
+33200 Tampere  
+0104117700  
+Ammattitaitoiset mukavat hoitajamme toteuttavat kotisairaanhoidon palvelua. Muun muassa lääkkeiden annostelua, sairaanhoidollisia toimenpiteitä sekä arvioidaan asiakkaan vointia sekä annetaan neuvontaa ja ohjausta tarpeen mukaan.<a href="http://mesimarjasi.fi" target="_blank"></a> 
+### 35.0 - 35.0
+### Hinta Arkisin klo 7-18 muina aikoina normaali ilta/yö ja viikonloppulisä.
+
+
 ## Hoiva Vitadi
 [www.vitadi.fi](www.vitadi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DHoiva+Vitadi)  
 Puuvillatehtaankatu 10  
 33210 Tampere  
 0440970703  
@@ -163,8 +170,23 @@ Kodin päivittäisissä askareissa avustaminen kuten ruoanlaitossa, siistimisess
 ### 33.0 - 33.0
 
 
+## Tampereen Kotihoiva
+[www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtampereenkotihoiva%40gmail.com%26serviceType%3Dcategory.nursing%26companyName%3DTampereen+Kotihoiva)  
+Kaukajärvi  
+33710 Tampere  
+050 4058 548  
+Laadukasta, lämminhenkistä ja monipuolista palvelua ikäihmisille. Palvelujamme mm. kotisiivoukset, henkilökohtaisen hygienian hoito, avustaminen arjen askareissa, kotisairaanhoito. Palvelumme on mahdollista saada arvonlisäverottomaan hintaan, jos toimintakyky on alentunut ikääntymisen tai esim. sairauden vuoksi, ja tilattavat palvelut ovat säännöllisiä. Yrittäjänä toimii sairaanhoitaja/terveydenhoitaja.  
+  
+  
+
+### 39.68 - 39.68
+### Hinta arkisin ma-pe klo 8-17. Veroton hinta 32,00 euroa/h.
+
+
 ## Mesimarja, Mesimarjasi Oy
 [www.mesimarjasi.fi](www.mesimarjasi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dville.vuolukka%40mesimarjasi.fi%26serviceType%3Dcategory.nursing%26companyName%3DMesimarja%2C+Mesimarjasi+Oy)  
 Pyhäjärvenkatu 5A  
 33200 Tampere  
 0104117700  
@@ -185,6 +207,7 @@ Tamperelaisen Mesimarjan lähihoitajat huolehtivat asiakkaan hyvinvoinnista ja t
 
 ## Alina Tampere Keskusta/Maggien Hoiva Oy
 [https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/](https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dm.laaksonen%40alinahoivatiimi.fi%26serviceType%3Dcategory.nursing%26companyName%3DAlina+Tampere+Keskusta%2FMaggien+Hoiva+Oy)  
 Oravanpolku 5  
 33540 Tampere  
 0447556390  
@@ -198,56 +221,9 @@ Palveluun kuuluu esim. virtsanäytteiden ottaminen ja laboratorioon vieminen tai
 ### Palvelumme ovat arvonlisäverottomia ja perustuvat aina kirjalliseen hoito- ja palvelusuunnitelmaan. Normaalin työajan (ma-pe klo 7-18) ulkopuolella hinnat erillisen hinnaston mukaan.
 
 
-## Tampereen Kotihoiva
-[www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
-Kaukajärvi  
-33710 Tampere  
-050 4058 548  
-Laadukasta, lämminhenkistä ja monipuolista palvelua ikäihmisille. Palvelujamme mm. kotisiivoukset, henkilökohtaisen hygienian hoito, avustaminen arjen askareissa, kotisairaanhoito. Palvelumme on mahdollista saada arvonlisäverottomaan hintaan, jos toimintakyky on alentunut ikääntymisen tai esim. sairauden vuoksi, ja tilattavat palvelut ovat säännöllisiä. Yrittäjänä toimii sairaanhoitaja/terveydenhoitaja.  
-  
-  
-
-### 39.68 - 39.68
-### Hinta arkisin ma-pe klo 8-17. Veroton hinta 32,00 euroa/h.
-
-
 ## Mesimarja, Mesimarjasi Oy
 [www.mesimarjasi.fi](www.mesimarjasi.fi)  
-Pyhäjärvenkatu 5A  
-33200 Tampere  
-0104117700  
-Ammattitaitoiset mukavat hoitajamme toteuttavat kotisairaanhoidon palvelua. Muun muassa lääkkeiden annostelua, sairaanhoidollisia toimenpiteitä sekä arvioidaan asiakkaan vointia sekä annetaan neuvontaa ja ohjausta tarpeen mukaan.<a href="http://mesimarjasi.fi" target="_blank"></a> 
-### 35.0 - 35.0
-### Hinta Arkisin klo 7-18 muina aikoina normaali ilta/yö ja viikonloppulisä.
-
-
-## Ikifit Oy
-[www.ikifit.fi](www.ikifit.fi)  
-Puutarhakatu 37  
-33230 Tampere  
-0207342650  
-Sosiaaliohjaajan ja lähihoitajan työn sisältö on kotipalvelussa samanlainen. Sosiaaliohjaajan tuottamaan kotipalveluun kuuluu lähihoitajan tehtävien lisäksi  avun ja neuvonnan antaminen yhteiskunnan tarjoamien etuuksien hakemisessa mm: eläkettä saavan hoitotuki, asumistuki, omaishoidon tuki, kuljetuspalvelut, edunvalvontavaltuutus. Sosiaaliohjaaja auttaa myös kotitalousvähennyksen tekemisessa.  
-
-### 45.0 - 80.0
-### Kotihoidon  palvelusta peritään kilometrkikorvaus 5 ,00/ ensimmäiset 5 km, ylimenevät 0.44/ km.
-Minimilaskutus on 1 h/käynti, tunnu ylittävä osuus 15 minuutin tarkkuudella.
-
-
-## Hoito- ja huolenpitopalvelut Neilikka
-Mustikkamutka, 11  
-37130 NOKIA  
-0452778837  
-  
-Hoito- ja huolenpitopalvelut Neilikka tuottaa laadukasta ja yksilöllistä  kotipalvelua ikäihmisille arjen haasteisiin. Teemme ikäihmisten luona kaikki heidän tarvitsemat asiat, lääkehoidon toteutuksesta henkilökohtaisen hygienian hoitoon ja kodin siisteyden ylläpitoon.  
-  
-  
-  
-
-### 35.0 - 72.0
-
-
-## Mesimarja, Mesimarjasi Oy
-[www.mesimarjasi.fi](www.mesimarjasi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dville.vuolukka%40mesimarjasi.fi%26serviceType%3Dcategory.nursing%26companyName%3DMesimarja%2C+Mesimarjasi+Oy)  
 Pyhäjärvenkatu 5A  
 33200 Tampere  
 0104117700  
@@ -256,8 +232,24 @@ Osaavat avustajamme auttavat ilolla asiakkaan arjen askareissa kuten ruoanvalmis
 ### Hinta Arkisin klo 7-18 muina aikoina normaali ilta/yö- ja viikonloppulisä.
 
 
+## Alina Tampere Keskusta/Maggien Hoiva Oy
+[https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/](https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dm.laaksonen%40alinahoivatiimi.fi%26serviceType%3Dcategory.nursing%26companyName%3DAlina+Tampere+Keskusta%2FMaggien+Hoiva+Oy)  
+Oravanpolku 5  
+33540 Tampere  
+0447556390  
+  
+Toteutamme kotityöpalvelut aina tarpeesi mukaan. Kotityöpalvelujen tarkoituksena on tukea ja auttaa sinua tai läheistäsi sellaisissa arjen tilanteissa, joiden tekeminen on jostain syystä ongelmallista. Kotiapuamme voit tarvita tapaturman, sairauden tai muun alentuneen toimintakyvyn vuoksi. Tällöin kotipalvelumme auttaa esimerkiksi ruuanlaitossa, pyykki- ja vaatehuollossa, kotisiivouksessa tai ikkunanpesussa. Myös lumityöt, polttopuiden tekeminen, saunan lämmitys ja pihan haravointi voivat tulla kyseeseen. Edistämme mielellämme myös erilaisia sosiaalisia tilanteita sekä toimimme asiointiapuna esimerkiksi kaupassa, apteekissa, pankissa tai terveyskeskuksessa.  
+  
+  
+
+### 37.0 - 37.0
+### Palvelumme ovat arvonlisäverottomia ja perustuvat aina kirjalliseen hoito- ja palvelusuunnitelmaan. Normaalin työajan (ma-pe klo 7-18) ulkopuolella hinnat erillisen hinnaston mukaan.
+
+
 ## Sinun hoiva Oy
 [www.sinunhoiva.fi](www.sinunhoiva.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Danni.juntunen%40sinunhoiva.fi%26serviceType%3Dcategory.nursing%26companyName%3DSinun+hoiva+Oy)  
 Hatanpään Valtatie 34, E  
 33100 Tampere  
 044 709 7914  
@@ -270,8 +262,22 @@ Kotisairaanhoidon tuntihintamme on 38 euroa/tunti, arkisin klo 7-18 välillä.
 ### Kotisairaanhoidon tuntihinta on 38 euroa/tunti, arkisin klo 7-18 välillä. Minimikäynti on 30 minuuttia.
 
 
+## Ikifit Oy
+[www.ikifit.fi](www.ikifit.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjo.sirkeoja%40ikifit.fi%26serviceType%3Dcategory.nursing%26companyName%3DIkifit+Oy)  
+Puutarhakatu 37  
+33230 Tampere  
+0207342650  
+Sosiaaliohjaajan ja lähihoitajan työn sisältö on kotipalvelussa samanlainen. Sosiaaliohjaajan tuottamaan kotipalveluun kuuluu lähihoitajan tehtävien lisäksi  avun ja neuvonnan antaminen yhteiskunnan tarjoamien etuuksien hakemisessa mm: eläkettä saavan hoitotuki, asumistuki, omaishoidon tuki, kuljetuspalvelut, edunvalvontavaltuutus. Sosiaaliohjaaja auttaa myös kotitalousvähennyksen tekemisessa.  
+
+### 45.0 - 80.0
+### Kotihoidon  palvelusta peritään kilometrkikorvaus 5 ,00/ ensimmäiset 5 km, ylimenevät 0.44/ km.
+Minimilaskutus on 1 h/käynti, tunnu ylittävä osuus 15 minuutin tarkkuudella.
+
+
 ## Hieronta- ja terveyspalvelut Janina Salmi
 [Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.nursing%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
 Takamaantie 1 H 15  
 33480 YLÖJÄRVI  
 0405161055  
@@ -284,15 +290,12 @@ Ota yhteyttä <a href="http://www.hierontajaterveyspalvelutjaninasalmi.fi" targe
 ### 36e/h arkisin. Kaikki palveluni ovat alv0.
 
 
-## Alina Tampere Keskusta/Maggien Hoiva Oy
-[https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/](https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/)  
-Oravanpolku 5  
-33540 Tampere  
-0447556390  
-  
-Toteutamme kotityöpalvelut aina tarpeesi mukaan. Kotityöpalvelujen tarkoituksena on tukea ja auttaa sinua tai läheistäsi sellaisissa arjen tilanteissa, joiden tekeminen on jostain syystä ongelmallista. Kotiapuamme voit tarvita tapaturman, sairauden tai muun alentuneen toimintakyvyn vuoksi. Tällöin kotipalvelumme auttaa esimerkiksi ruuanlaitossa, pyykki- ja vaatehuollossa, kotisiivouksessa tai ikkunanpesussa. Myös lumityöt, polttopuiden tekeminen, saunan lämmitys ja pihan haravointi voivat tulla kyseeseen. Edistämme mielellämme myös erilaisia sosiaalisia tilanteita sekä toimimme asiointiapuna esimerkiksi kaupassa, apteekissa, pankissa tai terveyskeskuksessa.  
-  
-  
-
-### 37.0 - 37.0
-### Palvelumme ovat arvonlisäverottomia ja perustuvat aina kirjalliseen hoito- ja palvelusuunnitelmaan. Normaalin työajan (ma-pe klo 7-18) ulkopuolella hinnat erillisen hinnaston mukaan.
+## Amurin Teon Tupa ry
+[www.teory.fi](www.teory.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.nursing%26companyName%3DAmurin+Teon+Tupa+ry)  
+Satakunnankatu 38  
+33210 Tampere  
+050 358 0072  
+Hoiva- ja kotipalvelu, sisältäen mm. hygienian hoito, ulkoilu, asiointiapu, siivous, ruuanlaitto, pyykkihuolto.
+### 36.0 - 37.0
+### Olemme arvonlisäveroton yleishyödyllinen toimija.

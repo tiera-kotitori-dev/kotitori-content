@@ -3,6 +3,7 @@
 
 ## Menumat Oy
 [www.menumat.fi](www.menumat.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djan.weppling%40menumat.fi%26serviceType%3Dcategory.meals%26companyName%3DMenumat+Oy)  
 Tikkurilantie 140 B  
 01530 Vantaa  
 020 796 1550  
@@ -16,20 +17,9 @@ Olemme sinua varten - ota siis rohkeasti yhteyttä Menumatin asiakaspalveluun ja
 Kysy meiltä lisää tarkemmista verollisista hinnoista!
 
 
-## Pito- ja Lounaspalvelu Satu Luukas
-[ruokalistat: www.kotakampus.fi/ravintola](ruokalistat: www.kotakampus.fi/ravintola)  
-Katepalintie 9  
-37500 Lempäälä  
-0400890140  
-Yritys toimittaa lämpimät kotiruoka-ateriat asiakkaille arkisin ja perjantaisin mahdolliset viikonloppuateriat kylminä.  Tällä hetkellä toimituspäivät ovat maanantai, keskiviikko ja perjantai. Toimituspäivinä on mahdollista saada lämmin ateria ja samalla toimituksella toimitetaan kylmät ateriat. Esimerkiksi jos asiakas syö seitsemän päivää viikossa, asiakkaalle toimitetaan ateriat seuraavasti.maanantai: 1 kuuma ja 1 kylmä ateriakeskiviikko: 1 kuuma ja 1 kylmä ateriaperjantai: 1 kuuma ja 2 kylmää ateriaaLisäksi on mahdollisuus tilata lisäaterioita edellämainittuina toimituspäivinä. Ateriat sisältää lisäksi salaatin ja jälkiruoan. Ruokalista on vähintään kuuden viikon kiertävä, juhlapyhät ja kausivaihtelut huomioon ottaen.  
-Raaka-aineet ovat pääasiassa kotimaisia mahdollisuuksien mukaan, mutta liha, kana ja kypsentämättömät marjat aina kotimaisia. Lämpimät ateriat ovat saman aamun valmistuksesta. Ruokalistan suunnittelussa otetaan huomioon monipuolisuus ja riittävä ravitsemus.    
-Yrityksellä on pitkä kokemus ( vuodesta 1996) ikäihmisten kanssa työskentelystä. Meillä kuulumisten kysyminen on osa palvelua.  
-Aterioiden valmistusta, pakkausta ja lämpötiloja seurataan jatkuvasti ja tiedot dokumentoidaan omavalvontaan.Yrityksellä kotiruoka-aterioiden lisäksi juhlapalvelua ja konditoriatuotteiden valmistusta.Yrityksellä on pitkäaikaisissa työsuhteissa 8 henkeä ja yrittäjä. Koulutuksina: restonomi/ keittiömestari, 2X kokki, 3x ravitsemustyöntekijä, kylmäkkö ja kondiittori, joista 3 hoitaa myös kotiinkuljetukset.Tällä hetkellä asiakkaita Lempäälässä, Vesilahdessa ja Tampereella.
-### 9.0 - 9.0
-
-
 ## Pirkanmaan Voimia Oy
 [https://voimia.fi](https://voimia.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtiina.tamiola%40voimia.fi%26serviceType%3Dcategory.meals%26companyName%3DPirkanmaan+Voimia+Oy)  
 Naulakatu 2  
 33100 Tampere  
 0407193998  
@@ -61,22 +51,9 @@ Mikäli aterioita ei vastaanoteta sovittuna aikana ja kuljetus edellä mainitust
 ### Kuljetuksen hinta on arkisin 5,28 euroa/pudotus ja pyhäpäivisin 7,93 euroa/pudotus. Lisäjälkiruoan hinta on 1,33 € / kpl. Hinnat sisältävät alv:n 14 %. Hinnat tarkistetaan vuosittain.
 
 
-## Ikifit Oy
-[www.ikifit.fi](www.ikifit.fi)  
-Puutarhakatu 37  
-33230 Tampere  
-0207342650  
-Hoitaja valmistaa aterian yhdessä asiakkaan kanssa.   
-Emme tuota ko. palvelua henkilölle, joka ei ole oikeutettu arvonlisäverottomaan palveluun.  
-  
-  
-
-### 45.0 - 80.0
-### 45,00 on tuntihinta. Minimilaskutus on 1 tunti/käynti, tunnin ylittävä osuus 15 minuutin tarkkuudella. Palvelusta peritään kilometrikorvau: 5,00 ensimmäiset 5 km, ylimenevät 0.44/ km.
-
-
 ## Amurin Teon Tupa ry
 [www.teory.fi](www.teory.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.meals%26companyName%3DAmurin+Teon+Tupa+ry)  
 Satakunnankatu 38  
 33210 Tampere  
 050 358 0072  
@@ -91,8 +68,37 @@ Mikäli asiakas peruuttaa sovitun työn alle 3 arkipäivän sisällä veloitamme
 Minimihinta on vakituisille/säännöllisille siivoustilauksille ja maksimihinta on kertatilauksien hinta.
 
 
+## Ikifit Oy
+[www.ikifit.fi](www.ikifit.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmarjo.sirkeoja%40ikifit.fi%26serviceType%3Dcategory.meals%26companyName%3DIkifit+Oy)  
+Puutarhakatu 37  
+33230 Tampere  
+0207342650  
+Hoitaja valmistaa aterian yhdessä asiakkaan kanssa.   
+Emme tuota ko. palvelua henkilölle, joka ei ole oikeutettu arvonlisäverottomaan palveluun.  
+  
+  
+
+### 45.0 - 80.0
+### 45,00 on tuntihinta. Minimilaskutus on 1 tunti/käynti, tunnin ylittävä osuus 15 minuutin tarkkuudella. Palvelusta peritään kilometrikorvau: 5,00 ensimmäiset 5 km, ylimenevät 0.44/ km.
+
+
+## Pito- ja Lounaspalvelu Satu Luukas
+[ruokalistat: www.kotakampus.fi/ravintola](ruokalistat: www.kotakampus.fi/ravintola)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dravintola%40kotokampus.fi%26serviceType%3Dcategory.meals%26companyName%3DPito-+ja+Lounaspalvelu+Satu+Luukas)  
+Katepalintie 9  
+37500 Lempäälä  
+0400890140  
+Yritys toimittaa lämpimät kotiruoka-ateriat asiakkaille arkisin ja perjantaisin mahdolliset viikonloppuateriat kylminä.  Tällä hetkellä toimituspäivät ovat maanantai, keskiviikko ja perjantai. Toimituspäivinä on mahdollista saada lämmin ateria ja samalla toimituksella toimitetaan kylmät ateriat. Esimerkiksi jos asiakas syö seitsemän päivää viikossa, asiakkaalle toimitetaan ateriat seuraavasti.maanantai: 1 kuuma ja 1 kylmä ateriakeskiviikko: 1 kuuma ja 1 kylmä ateriaperjantai: 1 kuuma ja 2 kylmää ateriaaLisäksi on mahdollisuus tilata lisäaterioita edellämainittuina toimituspäivinä. Ateriat sisältää lisäksi salaatin ja jälkiruoan. Ruokalista on vähintään kuuden viikon kiertävä, juhlapyhät ja kausivaihtelut huomioon ottaen.  
+Raaka-aineet ovat pääasiassa kotimaisia mahdollisuuksien mukaan, mutta liha, kana ja kypsentämättömät marjat aina kotimaisia. Lämpimät ateriat ovat saman aamun valmistuksesta. Ruokalistan suunnittelussa otetaan huomioon monipuolisuus ja riittävä ravitsemus.    
+Yrityksellä on pitkä kokemus ( vuodesta 1996) ikäihmisten kanssa työskentelystä. Meillä kuulumisten kysyminen on osa palvelua.  
+Aterioiden valmistusta, pakkausta ja lämpötiloja seurataan jatkuvasti ja tiedot dokumentoidaan omavalvontaan.Yrityksellä kotiruoka-aterioiden lisäksi juhlapalvelua ja konditoriatuotteiden valmistusta.Yrityksellä on pitkäaikaisissa työsuhteissa 8 henkeä ja yrittäjä. Koulutuksina: restonomi/ keittiömestari, 2X kokki, 3x ravitsemustyöntekijä, kylmäkkö ja kondiittori, joista 3 hoitaa myös kotiinkuljetukset.Tällä hetkellä asiakkaita Lempäälässä, Vesilahdessa ja Tampereella.
+### 9.0 - 9.0
+
+
 ## Menumat Oy
 [www.menumat.fi](www.menumat.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djan.weppling%40menumat.fi%26serviceType%3Dcategory.meals%26companyName%3DMenumat+Oy)  
 Tikkurilantie 140 B  
 01530 Vantaa  
 020 796 1550  
@@ -119,8 +125,34 @@ lisää!
 Kysy meiltä lisää tarkemmista verollisista hinnoista!
 
 
+## Mehiläinen Ateriaali Oy
+[www.mehilainen.fi](www.mehilainen.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dteija.harjumaki%40mehilainen.fi%26serviceType%3Dcategory.meals%26companyName%3DMehil%C3%A4inen+Ateriaali+Oy)  
+Pohjoinen Hesperiankatu 17  
+00260 Helsinki  
+0205813660  
+Mehiläisen Ateriaalilla on yli 28 vuoden kokemus ikäihmisten, kuntoutujien,  
+lasten sekä muiden erityisryhmien ateriapalveluiden järjestämisestä eri  
+yksiköhin ja asiakkaiden omiin koteihin.Mehiläisen Ateriaalin tuotekehitys suunnittelee vaihtelevan kuuden viikon ruokalistan (asiakas voi valita useammasta vaihtoehdosta), jossa huomioidaan sesongit ja juhlapäivät. Ateriasuunnittelu pohjautuu Valtion ikääntyvien asiakkaiden ravitsemussuosituksiin. Omat kuljettajamme toimittavat ateriat koteihin.
+### 7.4 - 8.7
+### 
+
+
+## Koti- ja juhlapalvelu Docella
+[www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djaana.makinen%40docella.fi%26serviceType%3Dcategory.meals%26companyName%3DKoti-+ja+juhlapalvelu+Docella)  
+Takamaantie 1 E 10  
+33480 Ylöjärvi  
+040 570 1797  
+Haluatko syödä kotona tehtyä kotiruokaa einesten ja valmisaterioiden sijasta? Valmistan kanssasi tai sinulle toiveittesi mukaan maukasta ruokaa ja leivonnaisia. Myös kotikaljan valmistus onnistuu!  
+
+### 36.0 - 39.0
+### 38 € tuntiveloitushinta on voimassa arkisin klo 18 jälkeen ja viikonloppuisin.
+
+
 ## Hieronta- ja terveyspalvelut Janina Salmi
 [Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.meals%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
 Takamaantie 1 H 15  
 33480 YLÖJÄRVI  
 0405161055  
@@ -135,41 +167,3 @@ Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan
 
 ### 36.0 - 36.0
 ### 36e/h arkisin. Kaikki palveluni ovat alv0.
-
-
-## Apu Helka Oy
-[www.apuhelka.fi](www.apuhelka.fi)  
-Tanhuankatu 63 B  
-33560 Tampere  
-0407243829  
-Autamme asiakkaitamme maistuvien kotiruokien  
-valmistuksessa.  Teemme asiakkaan toiveiden mukaisia ruokalistoja, tehdä   
-tarvittavat kauppaostokset sekä valmistaa aterioita tai vaikka leipoa.  
-  
-  
-
-### 39.9 - 45.9
-### Hinta on arkisin 8-18. Iltalisä 15 % (18-21), lauantailisä 25 %, sunnuntaisin ja pyhinä 100 %
-
-
-## Mehiläinen Ateriaali Oy
-[www.mehilainen.fi](www.mehilainen.fi)  
-Pohjoinen Hesperiankatu 17  
-00260 Helsinki  
-0205813660  
-Mehiläisen Ateriaalilla on yli 28 vuoden kokemus ikäihmisten, kuntoutujien,  
-lasten sekä muiden erityisryhmien ateriapalveluiden järjestämisestä eri  
-yksiköhin ja asiakkaiden omiin koteihin.Mehiläisen Ateriaalin tuotekehitys suunnittelee vaihtelevan kuuden viikon ruokalistan (asiakas voi valita useammasta vaihtoehdosta), jossa huomioidaan sesongit ja juhlapäivät. Ateriasuunnittelu pohjautuu Valtion ikääntyvien asiakkaiden ravitsemussuosituksiin. Omat kuljettajamme toimittavat ateriat koteihin.
-### 7.4 - 8.7
-### 
-
-
-## Koti- ja juhlapalvelu Docella
-[www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
-Takamaantie 1 E 10  
-33480 Ylöjärvi  
-040 570 1797  
-Haluatko syödä kotona tehtyä kotiruokaa einesten ja valmisaterioiden sijasta? Valmistan kanssasi tai sinulle toiveittesi mukaan maukasta ruokaa ja leivonnaisia. Myös kotikaljan valmistus onnistuu!  
-
-### 36.0 - 39.0
-### 38 € tuntiveloitushinta on voimassa arkisin klo 18 jälkeen ja viikonloppuisin.
