@@ -27,3 +27,5 @@ Palveluntuottajalla on käytössään asianmukainen kuljetuskalusto. Erityisesti
 Palvelun aloittaminen edellyttää kirjallisen sopimuksen tekemistä asiakkaan kanssa, jossa määritellään tarkemmin kauppapalveluun sisältyvät asiat. Erityistä tarkkuutta edellytetään sovittaessa ruokatoimitusten maksamisesta ja maksujen aikataulusta.
 
 Palvelun hinnoitteluperusteena on yksi toimituskerta (tilaus, keräily ja kuljetus). Asiakkaan tilaamat tuotteet eivät sisälly hintaan, niistä asiakas maksaa tilaustensa mukaisesti.
+
+
