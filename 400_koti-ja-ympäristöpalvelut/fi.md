@@ -1,28 +1,8 @@
-# Koti- ja ympäristöpalvelut 
-Palvelutuottajat sitoutuvat palvelutuotteissaan alla kuvattuihin yleisiin vaatimuksiin ja tuotekohtaisiin kuvauksiin.
+# Koti- ja kotiympäristöpalvelut 
 
+Kotiin ja kotiympäristöön liittyvillä palveluilla tuetaan kotona asumista.
 
-## Yleiset vaatimukset
-
-Tarjottavien palveluiden tulee täyttää erillisessä ”Yleiset vaatimukset palveluissa”-dokumentissa määritellyt kaikkia palveluita koskevat palveluntuottajan vastuisiin, henkilöstöön, palvelun laatutason seurantaan ja hinnoitteluun liittyvät vaatimukset.
-
-Erityisesti on huomioitava, että ennen palvelun suorittamista palvelun sisällöstä ja suorittamisesta on sovittava selkeästi asiakkaan kanssa. Lisäksi palveluun tulee sisältyä palvelun tuottamiseen vaadittava välineistö ja laitteisto. Etukäteen sovittujen hintojen tulee sisältää kaikki asiakkaalle aiheutuvat kustannukset.
-
-Asiakkaan kanssa suositellaan aina tehtäväksi kirjallinen sopimus palvelun toteutuksesta, sen sisällöstä, ajankohdasta ja hinnoittelusta.
-
-## Kotiin ja kotiympäristöön liittyvät palvelut
-
-Kotiin ja kotiympäristöön liittyvien palveluiden tavoitteena on tukea kotona asumista ja mahdollistaa se toimintakyvyn alentumisesta huolimatta.
-
-Asiakas tilaa tarvitsemansa palvelun palveluntuottajalta joko suoraan tai mahdollisen tarvekartoituskäynnin jälkeen. Kartoituksen perusteella asiakkaalle tehdään tarjous hänen tilansa/tilanteensa perusteella. Palvelu sisältää tilannekartoituksen, suunnittelun, toimenpiteistä sopimisen ja toimenpiteiden toteuttamisen.
-
-Apuvälinepalvelujen osalta asiakkaalle tehdään tarvittaessa toimintakykytestit, joiden perusteella selvitetään asiakkaan omat voimavarat sekä oikean apuvälineen tarve.
-
-Palveluiden hinnoitteluperusteena on palvelun tuottamiseen käytetty aika.
-
-Apuvälineiden osalta tulee olla käytettävissä hinnasto, josta yksiselitteisesti selviää tuotetiedot hintoineen sekä mahdolliset lisäkustannukset ja niiden perusteet.
-
-Kotiin ja ympäristöön liittyvät palvelut sisältävät:
+Kotiin ja ympäristöön liittyviä palveluita ovat muun muassa:
 
 * Pihanhoito, ruohon leikkaus yms. Puutarhatyöt
 * Remontit, asunnonmuutostyöt, huonekalujen kokoaminen
