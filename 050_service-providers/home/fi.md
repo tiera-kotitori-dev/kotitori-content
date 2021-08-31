@@ -184,3 +184,15 @@ Pukkisaarenkatu 2 B 32
 0400806064  
 Teen kevyet pihatyöt.  
 
+---
+
+## Tampereen seudun kotiapu
+[Www.akson.fi](Www.akson.fi/toimipisteet/tampereen-seudun-kotiapu/)  
+### Hinta € 36.00 - 60.00
+### Hinnat sisältävät mahdollisen arvonlisäveron 24 %
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Draila.arppe%40gmail.com%26serviceType%3Dcategory.home%26companyName%3DTampereen+seudun+kotiapu)  
+Mäkikatu 66 
+33250 Tampere
+045 112 7140
+Hintamme sisältää matkakulut Tampereella, lukuunottamatta Teiskon aluetta jossa kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Tampereen ulkopuolella kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Hinnat sisältävät mahdollisen arvonlisäveron 24 %. 
+
