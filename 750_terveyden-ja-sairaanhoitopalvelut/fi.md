@@ -6,7 +6,9 @@ Lääkärin toteuttamat kotikäynnit ovat avuksi erityisesti niissä tilanteissa
 
 ## Kotisairaanhoito
 
-(kopioidaan teksti kotiin annettavista palveluista tähän)
+Kotisairaanhoidolla tarkoitetaan potilaan kotona toteutettavaa sairaanhoitoa. Kotisairaanhoito helpottaa sairaalasta kotiutumista, sairastavan henkilön kotona selviytymistä ja tukee sairasta henkilöä avustavia omaisia kotihoidossa. Kotisairaanhoitoon kuuluu lääkärin määräämät sairaanhoidon toimenpiteet, kuten näytteiden ottaminen, mittaukset, lääkityksen valvominen ja potilaan voinnin seuraaminen sekä kivun hoito. (Lähde: Sosiaali- ja terveysministeriö)
+
+Kotisairaanhoidon palveluun liittyviä sairaanhoidollisia toimenpiteitä suorittavalta henkilöstöltä edellytetään terveydenhuollon ammattihenkilöistä annetun lain (559/1994 muutoksineen) mukaista oikeutta harjoittaa terveydenhoitajan tai sairaanhoitajan ammattia.
 
 ## Kotona otettavat laboratorionäytteet
 
