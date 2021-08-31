@@ -13,67 +13,6 @@ Hierojamme ovat laillistettuja, hierojan ammattitutkinnon suorittaneita, viralli
 
 ---
 
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 40.0 - 90.0
-### 30min 30e
-45min 40e
-60min 45e
-90min 60e
-120min 80e 
-Kotikäyntilisä 10e
-Kaikki hinnaston palvelut on vapautettu arvonlisäverosta terveydenhuollon palveluna.
-  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.rehabilitation%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Hieronta kotikäyntinä ikäihmisille. Olen valmistunut koulutetuksi hierojaksi vuonna 2019. Olen lisäksi vanhustyöhön erikoistunut lähihoitaja. Seniorihieronta on auttanut montaa asiakastani esimerkiksi jalkojen pakotukseen, päänsärkyyn tai hartiajumiin. Minulla on mukana matkahierontapöytä, mutta mikäli asiakas ei pysty nousemaan sille, hieronnan voi tehdä myös istuen tai vaikkapa sängyllä. Minulla on myös niska-hartiahierontatuki, jolla hieronta on mahdollista suorittaa istuen. Käynnit myös laitoksiin ja palvelutaloihin.   
- Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
----
-
-## FYSIO 2000
-[www.fysio2000.fi](www.fysio2000.fi)
-### Hinta € 59.0 - 69.0
-### 50min hinta on 59e ja 60min hinta on 69e. Näistä hinnoista on mahdollisuus saada lääkärin lähetteellä kela-korvaus
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtimo.tuuri%40fysio2000.fi%26serviceType%3Dcategory.rehabilitation%26companyName%3DFYSIO+2000)  
-Sumeliuksenkatu 18 A  
-33100 Tampere  
-0445295064  
-Laadukas fysioterapia. Toteuttajana pitkän kokemuksen omaava Antti Rusanen joka on erikoistunut alaraajafysioterapiaan sekä tuki- ja liikuntaelin fysioterapiaan. Antti totetuttaa Tampereen keskustan (Sumeliuksenkatu 17A) toimiaikassa myös neurologista kuntoutusta, akupunktiota sekä valmistaa tukipohjallisia. Tialmme ovat esteettömät
-
----
-
-## FYSIO 2000
-[www.fysio2000.fi](www.fysio2000.fi)
-### Hinta € 49.0 - 76.0
-### hieronnan hinnasto: 
-45 min 49,00 €
-60 min 56,00 €
-90 min 76,00 €  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtimo.tuuri%40fysio2000.fi%26serviceType%3Dcategory.rehabilitation%26companyName%3DFYSIO+2000)  
-Sumeliuksenkatu 18 A  
-33100 Tampere  
-0445295064  
-Laadukas fysioterapeutin toteuttama hieronta arkisin 8-17
-
----
-
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.0 - 36.0
-### 36e/h arkisin. Kaikki palveluni ovat alv0.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.rehabilitation%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-LiikuntaLiikunta ja ulkoilu lisäävät tutkitusti ikääntyneen hyvinvointia sekä fyysisesti että psyykkisesti. Lähihoitajan tuottama kotipalvelu joka sisältää jumppatuokiot ja ulkoilussa avustamisen.Jumpat, jumppaohjeistus, ulkoiluapu ja jumppatarvikkeiden lainaus. Olen koulutukseltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja.   
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
----
-
 
 ## Ikifit Oy
 [www.ikifit.fi](www.ikifit.fi)
@@ -84,18 +23,6 @@ Puutarhakatu 37
 33230 Tampere  
 0207342650  
 Ikifit on erikoistunut geriatriseen fysioterapiaan eli ikääntyvien fysioterapiaan. Terapian tavoitteena on lisätä liikkuvuutta sekä energisyyttä.Geriatrinen fysioterapia perustuu fysioterapeutin tekemään toimintakykyarvioon. Arvion pohjalta laadimme henkilökohtaisen ja yksilöllisen kuntoutussuunnitelman lähtien asiakkaan tavoitteista ja tarpeista.Vahvana osaamisalueenamme on neurologinen fysioterapia sekä musiikkiterapian keihojen hyödyntäminen fysioterapiatilanteissa. Haluamme tukea asiakkaidemme omaa toimintakykyä ja kotona asumista mahdollisimman pitkään.Fysioterapiaan voi hakeutua lääkärin lähetteellä, jolloin hoito on KELA-korvattavaa tai omasta aloitteesta.Meillä on myös saatavilla fascia-fysioterapiaa.  
-
----
-
-## FYSIO 2000
-[www.fysio2000.fi](www.fysio2000.fi)
-### Hinta € 29.0 - 29.0
-### Kuntosalin kuukausihinta 29euroa sis alv (10%) toistaiseksi olevalla sopimuksella kuukauden irtisanomisajalla
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dtimo.tuuri%40fysio2000.fi%26serviceType%3Dcategory.rehabilitation%26companyName%3DFYSIO+2000)  
-Sumeliuksenkatu 18 A  
-33100 Tampere  
-0445295064  
-Ikäihmisten esteetön kuntosali Tampereen keskustassa. Myös ikäihmisten kuntosaliryhmät kaupungin palvelusetelillä.
 
 ---
 

@@ -67,18 +67,6 @@ Lähihoitaja tai vastaava henkilö lähtee saattamaan asiakasta palvelubussilla,
 
 ---
 
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.00 - 36.00
-### Tuotan pelkästään alv0 palvelua.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.walking%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Ulkoiluapua ikääntyneelleUlkoilu lisää tutkitusti ikääntyneen hyvinvointia. Olen ammatiltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja. Tuotan monipuolista palvelua ikääntyneille, jonka yksi palvelu on ulkoilussa avustaminen.  Täytä lomake nettisivuillani tai soita, niin tulen maksuttomalle kartoituskäynnille jossa voimme yhdessä miettiä palveluntarvettasi. Palvelun hinta on arkisin klo 08-17 välillä 36e/h. Hintaan lisätään kilometrikorvaus 0,43snt/km osoitteesta Takamaantie 1, Ylöjärvi asiakkaan kotiin. Paluumatkaa ei veloiteta. 
-
----
-
 ## Apukolmio Oy
 [www.apukolmio.fi](www.apukolmio.fi)
 ### Hinta € 44.64 - 44.64
@@ -101,32 +89,6 @@ Näsilinnankatu 22 A 38
 010 2924 300  
 Oma avustaja harrasteisiin ja asioille mukaan ApukolmiostaTarvitsetko apua ulkoiluun, harrastuksiin tai asiointiin? Saat Apukolmiosta oman nimetyn avustajan, joka auttaa sinua arjen askareissa. 
 
----
-
-## Alina Tampere Keskusta/Maggien Hoiva Oy
-[https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/](https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/)
-### Hinta € 37.00 - 37.00
-### Palvelumme ovat arvonlisäverottomia ja perustuvat aina kirjalliseen hoito- ja palvelusuunnitelmaan. Normaalin työajan (ma-pe klo 7-18) ulkopuolella hinnat erillisen hinnaston mukaan.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dm.laaksonen%40alinahoivatiimi.fi%26serviceType%3Dcategory.walking%26companyName%3DAlina+Tampere+Keskusta%2FMaggien+Hoiva+Oy)  
-Oravanpolku 5  
-33540 Tampere  
-0447556390  
-Voit tilata Alinan Tampereelta avuksesi säännölliseen ulkoiluun.  
-Alina lähtee kävelylenkille avuksi ja juttuseuraksi varmistamaan, että reissu sujuu onnistuneesti ja turvallisesti takaisin kotiovelle asti.  
-  
----
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.00 - 36.00
-### 36e/h arkisin. Kaikki palveluni ovat alv0.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.walking%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Lähihoitajan tuottama kotipalvelu sisältäen saattoaavun. Saatot taksikyydillä, bussilla tai kävellen kaikenlaiseen asiointiin. Olen vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja.   
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
 ---
 
 ## Viola-kotiyhdistys ry
@@ -152,17 +114,6 @@ Pukkisaarenkatu 2 B 32
 0400806064  
 Avustan ulkoilussa asiakkaan toiveiden mukaisesti. Vaikka järven rantaan.  
 
----
-
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)
-### Hinta € 41.00 - 41.00  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.walking%26companyName%3DKotipalvelu+Kukka+Oy)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Asiakkaan tarpeen  mukaan hoidamme joko itsenäisesti tai asiakkaan kanssa yhdessä asiointi- ja saattopalvelua. Esim. kaupassakäynti, apteekkiasiat, lääkäriin saattaminen.   
-  
 ---
 
 ## Koti- ja juhlapalvelu Docella
@@ -250,19 +201,6 @@ Tarjoamme apuamme kauppa- ja apteekki asiointiin, saattajapalvelua lääkäriin,
   
 ---
 
-## Alina Tampere Keskusta/Maggien Hoiva Oy
-[https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/](https://www.alinahoivatiimi.fi/paikkakunta/alina-tampere-keskusta/)
-### Hinta € 37.00 - 37.00
-### Palvelumme ovat arvonlisäverottomia ja perustuvat aina kirjalliseen hoito- ja palvelusuunnitelmaan. Normaalin työajan (ma-pe klo 7-18) ulkopuolella hinnat erillisen hinnaston mukaan.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dm.laaksonen%40alinahoivatiimi.fi%26serviceType%3Dcategory.walking%26companyName%3DAlina+Tampere+Keskusta%2FMaggien+Hoiva+Oy)  
-Oravanpolku 5  
-33540 Tampere  
-0447556390  
-  
-Voit tilata Alinan Tampereelta avuksesi säännölliseen saattoapuun tai kertapalveluna esimerkiksi tapahtumiin, perhejuhliin tai vaikkapa päiväkävelylle puistoon. Virkistyspalvelussa pääset Alinan kanssa myös lähialuetta kauemmaksi, sillä Alinan hoitajilla on auto käytössään ja vakuutukset kunnossa.  
-  
----
-
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)
 ### Hinta € 39.68 - 39.68
@@ -272,30 +210,3 @@ Kaukajärvi
 33710 Tampere  
 050 4058 548  
 Asiointi- ja saattoapu, esim. apteekki-, lääkäri-, harrastus- ja kauppakäynnit  
-
----
-
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)
-### Hinta € 41.00 - 41.00
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.walking%26companyName%3DKotipalvelu+Kukka+Oy)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Räätälöimme ulkoilutuspalvelun asiakkaan tarpeen mukaan. Avustaja auttaa ulkoilussa ja harrastuksiin kulkemisessa. Voidaan poiketa vaikka puistoon tai torikahville.   
-
----
-
-
-## Hoiva Vitadi
-[www.vitadi.fi](www.vitadi.fi)
-### Hinta € 25.00 - 25.00
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.walking%26companyName%3DHoiva+Vitadi)  
-Puuvillatehtaankatu 10  
-33210 Tampere  
-0440970703  
-Asiointi kodin ulkopuolella, joko asiakkaan kanssa tai hänen puolestaan.  
-  
-  
-
-
