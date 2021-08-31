@@ -1,6 +1,44 @@
 # Koti- ja ympäristöpalvelut
 
 
+## Onnexi Oy
+[https://onnexi.fi/](https://onnexi.fi/)  
+### Hinta € 58.00 - 70.00
+### Arkisin 8-18 tuntihinnat: 29€/h (sis.alv). 
+2 tuntia minimikäyntiaika 58€. 
+
+Arki-iltaisin 18-21 tuntiveloitus 35€/h
+
+Lisäksi: 
+Matkakulut 5km ylittävältä etäisyydeltä 0,7€/km. Alle 5km etäisyydeltä ei matkakuluja. 
+Peräkärryn tai muiden isompien työvälineiden vuokraus 25€/vrk. Peräkärrykuljetuksista 1€/km. Muut materiaalit tai kulut sopimuksen mukaan.
+Paperilasku 5 € lisäveloitus
+
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dulla%40onnexi.fi%26serviceType%3Dcategory.home%26companyName%3DOnnexi+Oy)  
+Kotikoivuntie 3 C 8  
+05810 Hyvinkää  
+0449723823  
+Onnexin OmaTalkkari  
+OmaTalkkari on kokenut seniori juuri sinulle henkilökohtaisesti ja sinun tarpeitasi ajatellen. Hän pitää huolta kodistasi ja kiinteistöstäsi.OmaTalkkari on luottopeluri kodin  askareissa ja ylläpidossa. Hän on kokenut monitoimiosaaja. Hänet tunnetaan nimellä ja on usein talonväen ja taloyhtiön suosikki varapappa.Omatalkkari saatavilla myös talonyhtiöillePalvelemme arkisin 8-18, sopimuksesta myös iltaisin ja viikonloppuisin  
+  
+
+---
+
+
+## Hieronta- ja terveyspalvelut Janina Salmi
+[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+### Hinta € 36.00 - 36.00
+### Teen pelkästään alv 0 palvelua.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.home%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
+Takamaantie 1 H 15  
+33480 YLÖJÄRVI  
+0405161055  
+Ikääntyneiden muuttoapupalveluLähihoitajan tuottama kotipalvelu sisältää muuton valmistelussa avustamisen. Avustan asiakasta muuton valmistelussa kuten pakkaamisessa ja muuttosiivouksessa. Olen koulutukseltani lähihoitaja ja koulutettu hieroja. En kuitenkaan tuota itse muuttoa (tavaroiden siirtäminen osoitteesta toiseen). Palvelun hinta on arkisin 08-17 välillä 36e/h. Hintaan lisätään kilometrikorvaus osoitteesta Takamaantie 1, Ylöjärvi asiakkaan luo, paluumatkaa ei veloiteta. Kilometrikorvaus on 0,43snt/km  
+  
+  
+---
+
+
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
 ### Hinta € 39.68 - 39.68
@@ -35,6 +73,27 @@ Takamaantie 1 E 10
 33480 Ylöjärvi  
 040 570 1797  
 Autan pienimuotoisten kodin juhlien suunnittelussa ja toteuttamisessa. Halutessasi valmistan itse ammattitaidolla makeat ja suolaiset tarjottavat juhliin tai tilaan tarjottavat luotettavilta leipomoilta ja tavarantoimittajilta. Silitän liinat juhlapöytiin ja katan juhlapöydät halutun teeman mukaiseksi. Juhlissa voidaan käyttää asiakkaan astioita tai ne voidaan vuokrata tilaisuutta varten. Järjestän ja siistin kodin kuntoon ennen ja jälkeen juhlien.   
+
+---
+
+
+## Onnexi Oy
+[https://onnexi.fi/](https://onnexi.fi/)  
+### Hinta € 58.00 - 70.00
+### Arkisin 8-18 tuntihinnat:
+29€/h (sis.alv). 2 tuntia minimikäyntiaika 58€. 
+
+Arki-iltaisin 18-21 tuntiveloitus 35€/h
+
+Lisäksi: 
+Matkakulut 5km ylittävältä etäisyydeltä 0,7€/km. Alle 5km etäisyydeltä ei matkakuluja. 
+Peräkärryn tai muiden isompien työvälineiden vuokraus 25€/vrk. Peräkärrykuljetuksista 1€/km. Muut materiaalit tai kulut sopimuksen mukaan.
+Paperilasku 5 € lisäveloitus
+
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dulla%40onnexi.fi%26serviceType%3Dcategory.home%26companyName%3DOnnexi+Oy)  
+Kotikoivuntie 3 C 8  
+05810 Hyvinkää  
+0449723823  
 
 ---
 
@@ -149,6 +208,41 @@ Kotona-asuminen on turvallista kun käytössä on apuvälineitä sekä mm. nousu
 
 ---
 
+## Onnexi Oy
+[https://onnexi.fi/](https://onnexi.fi/)  
+### Hinta € 70.00 - 80.00
+### Arkisin 8-18 tuntihinnat:
+35€/h (sis.alv). 2 tuntia minimikäyntiaika yht. 70€. 
+
+Arki-iltaisin 18-21 tuntiveloitus 40€/h
+
+Lisäksi: 
+Matkakulut 5km ylittävältä etäisyydeltä 0,7€/km. Alle 5km etäisyydeltä ei matkakuluja. 
+Peräkärryn tai muiden isompien työvälineiden vuokraus 25€/vrk. Peräkärrykuljetuksista 1€/km. Muut materiaalit tai kulut sopimuksen mukaan.
+Paperilasku 5 € lisäveloitus
+
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dulla%40onnexi.fi%26serviceType%3Dcategory.home%26companyName%3DOnnexi+Oy)  
+Kotikoivuntie 3 C 8  
+05810 Hyvinkää  
+0449723823  
+
+---
+
+
+## Hieronta- ja terveyspalvelut Janina Salmi
+[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+### Hinta € 36.00 - 36.00
+### 36e/h arkisin. Kaikki palveluni ovat alv0.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.home%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
+Takamaantie 1 H 15  
+33480 YLÖJÄRVI  
+0405161055  
+Lumityöt ja pihanhoitoLähihoitajan tuottama kotipalvelu joka sisältää pihanhoidon ja lumityöt.Tarjoan apuani tarvittaessa lumitöissä, nurmikon leikkuussa ja muussa pihanhoidossa. Olen koulutukseltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja.   
+  
+Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
+  
+
+---
 
 ## Apukolmio Oy
 [www.apukolmio.fi](www.apukolmio.fi)  
@@ -160,6 +254,69 @@ Näsilinnankatu 22 A 38
 010 2924 300  
 Apua juhlien järjestelyyn ApukolmiostaAutamme asiakkaitamme kaikissa juhlajärjestelyissä siivouksesta kahvinkeittoon. Saat myös tarjoiluun apua sekä juhlien jälkeen tilojen siistimiseen ja tiskaukseen apua meiltä. Olipa kysessä syntymäpäivät, häät tai hautajaiset - Apukolmiosta saat apua tilaisuuden järjestämiseen. 
 
+---
+
+## Onnexi Oy
+[https://onnexi.fi/](https://onnexi.fi/)  
+### Hinta € 58.00 - 70.00
+### Arkisin 8-18 tuntihinnat:
+29€/h (sis.alv). 2 tuntia minimikäyntiaika 58€. 
+
+Arki-iltaisin 18-21 tuntiveloitus 35€/h
+
+Lisäksi: 
+Matkakulut 5km ylittävältä etäisyydeltä 0,7€/km. Alle 5km etäisyydeltä ei matkakuluja. 
+Peräkärryn tai muiden isompien työvälineiden vuokraus 25€/vrk. Peräkärrykuljetuksista 1€/km. Muut materiaalit tai kulut sopimuksen mukaan.
+Paperilasku 5 € lisäveloitus
+
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dulla%40onnexi.fi%26serviceType%3Dcategory.home%26companyName%3DOnnexi+Oy)  
+Kotikoivuntie 3 C 8  
+05810 Hyvinkää  
+0449723823  
+
+---
+
+
+## Kaverus
+[www.kaverus.fi](www.kaverus.fi)  
+### Hinta € 45.00 - 173.00
+### Tuntihinta on aina 40,00€, jonka päälle lisätään matkakulut. Yhden käynnin maksimiaika on 4h.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djenni.tarkkala%40kaverus.fi%26serviceType%3Dcategory.home%26companyName%3DKaverus)  
+Iidesranta 4 C 44 (kotitoimisto)  
+33100 Tampere  
+0407222444  
+Digituki kotiin  
+Kaveruksen digituki kattaa avun ja opastuksen niin puhelimien, tietokoneiden kuin tablettienkin kanssa. Autamme laitteiden ostossa, asennuksessa, opettelussa ja ongelmatilanteissa.  
+Rauhallista opetusta ja tuki ongelmatilanteisiin  
+Erityisosaamisemme on rauhallisessa opetuksessa. Tavoitteenamme on aina, että asiakas pystyy käyttämään laitettaan käyntimme jälkeen itsenäisemmin ja siksi on tärkeää, että opetusksessa asiakas saa itse tehdä ja kokeilla opastetut asiat. Asiakkaille on yksi numero josta voi soittaa heti apua, jos eteen tulee uusia digihaasteita.Hinta40,00 €/h + matkakulut  
+Matkakulut:Ylöjärvi 5,00€Tampere, Pirkkala, Nokia 10,00€  
+Lempäälä, Kangasala 13,00€AikataulutAjan voi varata arkisin klo 9-16 numerosta 0407222444Käyntejä toteutamme arkisin 9-18  
+
+---
+
+## Hieronta- ja terveyspalvelut Janina Salmi
+[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
+### Hinta € 36.00 - 66.00
+### 36e/h arkisin. Kaikki palveluni ovat alv0.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.home%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
+Takamaantie 1 H 15  
+33480 YLÖJÄRVI  
+0405161055  
+Pihan ja puutarhanhoitoTarjoan apua nurmikonleikkuussa ja pihatöissä asiakkaille joiden toimintakyky on heikentynyt iän tai sairauden myötä.  Olen koulutukseltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja.   
+Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
+ 
+---
+
+## Tampereen seudun kotiapu
+[Www.akson.fi](Www.akson.fi/toimipisteet/tampereen-seudun-kotiapu/)  
+### Hinta € 36.00 - 60.00
+### Hinnat sisältävät mahdollisen arvonlisäveron 24 %
+[Jätä yhteydenottopyyntö]  
+Mäkikatu 66 
+33250 Tampere
+045 112 7140
+Hintamme sisältää matkakulut Tampereella, lukuunottamatta Teiskon aluetta jossa kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Tampereen ulkopuolella kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Hinnat sisältävät mahdollisen arvonlisäveron 24 %. 
+ 
 ---
 
 ## Apukolmio Oy
