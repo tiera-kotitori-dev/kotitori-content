@@ -1,20 +1,6 @@
 # Asumispalvelut
 
 
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
-### Hinta € 36.00 - 36.00
-### 36e/h arkisin. Kaikki palveluni ovat alv0.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.living%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Saunassa ja suihkussa avustaminen asiakkaan kotonaLähihoitajan tuottama kotipalvelu sisältäen saunassa ja suihkussa avustamisen.Avustan asiakasta peseytymisessä ja hygienian hoidossa.  Olen koulutukseltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja. Palveluni toimii sopimuksen mukaan.   
-  
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-
----
-
 ## Viola-kotiyhdistys ry
 [www.viola-koti.fi](www.viola-koti.fi)  
 ### Hinta € 85.50 - 85.50

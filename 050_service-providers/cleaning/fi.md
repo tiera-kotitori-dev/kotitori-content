@@ -160,20 +160,6 @@ Säännöllistä ja kertaluontoista kotisiivousta jo  yli 17 vuoden kokemuksell
   
 ---
 
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
-### Hinta € 36.00 - 36.00
-### 36e/h arkisin. Kaikki palveluni ovat alv0.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.cleaning%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Siivouspalvelut ikäihmisille  
-Lähihoitajan tuottama ikäihmisten kotipalelu joka sisältää siivouspalvelut. Tuon mukanani omat välineet (imuri, moppi, pesuaineet, mikrokuituliinat ym).  Sekä yksittäiset siivouskäynnit että säännöllinen siivous. Palvelu sisältää myös tekstiilipesurilla sohvien, mattojen, petauspatjojen ym pesun turvallisesti ja tehokkaasti. Siivouksen hinta on vakio, riippumatta siitä siivotaanko asiakkaan omilla välineillä vai palveluntuottajan välineillä.   
-Palvelun hinta arkisin klo 08-17 36e/h, alv0%. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
----
-
 ## MilliMaili
 ### Hinta € 43.40 - 43.40
 ### Veroton tuntihinta 35€. Työ tehdään yksin. Minimiveloitus 2h.
@@ -291,20 +277,6 @@ Ikkunanpesu
 
 ---
 
-## Amurin Teon Tupa ry
-[www.teory.fi](www.teory.fi)  
-### Hinta € 35.00 - 37.00
-### Huom! Olemme arvonlisäveroton yleishyödyllinen toimija, tuntihintamme ovat arvonlisäverottomia.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.cleaning%26companyName%3DAmurin+Teon+Tupa+ry)  
-Satakunnankatu 38  
-33210 Tampere  
-050 358 0072  
-Kotisiivous suunnitellaan jokaisen asiakkaan omien toiveiden mukaisesti. Käytettävässä siivousajasta sovitaan yhdessä, jolloin asiakkaalle ei tule yllätyksiä siivouskäynnin jälkeen. Asiakkaalla käy sama tuttu työntekijä ja pidämme kiinni sovituista aikatauluista. Pääsääntöisesti siivouksen suorittaa yksi työntekijä, mutta tarvittaessa työ tehdään parityönä esim. jos asiakas haluaa tuuletettavaksi suuria raskaita mattoja tai huonekalujen siirtelyssä tarvitaan apua. Ylläpitosiivouksen lisäksi asiakas saa meiltä ammattitaitoisesti toteutetut suursiivoukset. Toimintamme on joustavaa ja asiakas voi sovitun ajan puitteissa pyytää työntekijää auttamaan kaikissa kodin töissä tai tilata erikseen lisäpalveluja. Siivoukset toteutetaan pääsääntöisesti asiakkaan omilla välineillä. Ikkunpesuissa työntekijöillämme on aina omat välineet mukana. Mikäli asiakkaalla ei ole omia välineitä, me autamme kuitenkin aina hankinnoissa tai tarvittaessa tuomme mukanamme puuttuvia tarvikkeita. Hinnoittelu:Vähimmäisveloitus on 1 tunti. Mikäli asiakas peruuttaa sovitun työn alle 3 arkipäivän sisällä veloitamme asiakkaalta 50% sovitusta siivousajasta, tämä ehto ei koske työn siirtämistä toiseen ajankohtaan.Asiakkaalle tehtävä palvelusuunnittelukäynti tai palvelusuunnitelman päivityskäynti on maksuton.  
-Muut siivoukseen liittyvät hinnoittelut :Erilliset siivousaineet ja tarvikkeet asiakkaan omaksi:   
-hinta määräytyy asiakkaan kanssa sovitun aineen tai välineen veloitushinnan mukaan, asiakas saa hankinnasta kuitin ja veloitus voidaan suorittaa siivouslaskun yhteydessä.   
-
----
-
 ## Siivouspalvelu Satu
 [www.siivouspalvelusatu.fi](www.siivouspalvelusatu.fi)  
 ### Hinta € 39.68 - 39.68
@@ -322,30 +294,3 @@ tuottajaksi. Selvitämme asiakkaan mahdollisuuden arvonlisäverottomaan
 palveluun.  
   
   
----
-
-
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)  
-### Hinta € 41.00 - 41.00
-### Minimilaskutus 2 tuntia. Veroton hinta 33,06 €/tunti.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DKotipalvelu+Kukka+Oy)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Kotisiivous voi olla säännöllistä tai tilapäistä. Siivouspalvelu on kodin yleissiivousta, joka sisältää mm. imurointia, pölyjen pyyhintää, lattian pesua ym. Siivous tapahtuu suunnitelmallisesti asiakkaan toiveiden mukaan. Pääsääntöisesti asiakkaan luona käy sama työntekijä. Siivous tapahtuu tilaajan aineilla ja välineillä. Ei kilometrikorvausta, mikäli kohteeseen pääsee julkisella kulkuvälineellä (bussilla). Rekisteröitynä yrityksenä tarjoan arvonlisäverotonta palvelua Tampereella ja Nokialla, jos asiakkaalla on jokin vika, vamma tai sairaus. Palvelusta tehdään kirjallinen sopimus. Palvelusta voi hakea kotitalousvähennyksen.   
-  
-     
----
-
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)  
-### Hinta € 44.00 - 44.00
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.cleaning%26companyName%3DKotipalvelu+Kukka+Oy)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Siivous voi sisältää mm. sauna-, parveke-, terassi- ja ikkunanpesua asiakkaan toiveiden mukaan.  
-  
-  
-

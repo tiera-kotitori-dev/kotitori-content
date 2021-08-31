@@ -13,31 +13,6 @@ Lääkehoitoa toteuttaa lääkehoidon koulutuksen saanut henkilö.
 
 ---
 
-## Mesimarja, Mesimarjasi Oy
-[www.mesimarjasi.fi](www.mesimarjasi.fi)  
-### Hinta € 35.00 - 35.00
-### Hinta Arkisin klo 7-18 muina aikoina normaali ilta/yö ja viikonloppulisä.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dville.vuolukka%40mesimarjasi.fi%26serviceType%3Dcategory.drugs%26companyName%3DMesimarja%2C+Mesimarjasi+Oy)  
-Pyhäjärvenkatu 5A  
-33200 Tampere  
-0104117700  
-Lääkehoidon opinnot suorittaneet hoitajamme huolehtivat lääkkeiden jaon lääkärin ohjeistuksen mukaisesti säännöllisesti tai tarpeen mukaan.<a href="http://mesimarjasi.fi" target="_blank"></a>
-
----
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)  
-### Hinta € 36.00 - 36.00
-### 36e/h arkisin. Kaikki palveluni ovat alv0.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.drugs%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Lääkejaot dosettiin ja apteekkiasiointiLähihoitajan tuottama kotipalvelu joka sisältää lääkehoidon. Toteutan lääkehoitoa <a href="https://www.julkari.fi/handle/10024/129969">&quot;turvallinen lääkehoito&quot;</a>- oppaan mukaisesti, eli lääkejaot dosetteihin ja lääkkeiden antaminen luonnollista reittiä. Asioin myös asiakkaan puolesta apteekissa. Palvelu on käytettävissä sopimuksen mukaan. Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
-
----
-
 ## Tampereen Kotihoiva
 [www.tampereenkotihoiva.fi](www.tampereenkotihoiva.fi)  
 ### Hinta € 39.68 - 39.68

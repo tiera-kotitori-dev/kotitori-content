@@ -15,7 +15,7 @@
 * Suun-terveydenhuollon-palvelut
 * Terveyden-ja-sairaanhoitopalvelut
 * Turvapalvelut
-* Vaihtoehtohoitopalvelut
+* Muut hoidot
 * Muut palvelut
 
 # Palveluntuottajana Kotitorilla

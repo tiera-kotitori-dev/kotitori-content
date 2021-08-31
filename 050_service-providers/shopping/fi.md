@@ -18,21 +18,7 @@ Lisäksi on kilometrimaksu, joka on 1-2 henkilölle 1,84 €/km ja 5-8 henkilöl
 joka on 42,23 €/h.Palvelu on saatavilla kellon ympäri, vuoden jokaisena päivänä. Asiointipalvelu tilataan taksin tilausnumerosta p. 0100 4131 (2,84  
 €/puh + pvm/mpm) tai Taksi Tampereen sovelluksella (maksuton). Tilatessasi kerro, että kyse on asiointipalvelusta.  
   
----
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.0 - 36.0
-### 36e/h arkisin. Kaikki palveluni ovat alv0.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.shopping%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Kaupassa asiointi asiakkaan kanssa tai asiakkaan puolesta kuuluu palveluuni. Lähihoitajan tuottama kotipalvelu joka sisältää asiointiavun.Kaikenlainen asiointiapu asiakkaan kanssa yhdessä tai puolesta.   
-Palvelu on käytettävissä sopimuksen mukaan.   
-  
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km. Asiointiavuissa laskutetaan myös kilometrikorvaus asiakkaan asunnolta asiointikohteeseen (kuten kauppaan) ja takaisin asiakkaan kotiin.   
-  
+ 
 ---
 
 ## Pirkanmaan Avustajakeskus Oy
@@ -82,30 +68,6 @@ Kaukajärvi
 Kaupassakäyntiapu asiakkaan kanssa tai ilman.   
 
 
----
-
-## Amurin Teon Tupa ry
-[www.teory.fi](www.teory.fi)
-### Hinta € 35.0 - 37.0
-### HUOM! olemme arvonlisäveroton toimija, hintamme on samassa kaikissa kategorioissa.
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.shopping%26companyName%3DAmurin+Teon+Tupa+ry)  
-Satakunnankatu 38  
-33210 Tampere  
-050 358 0072  
-Kodinhoitajamme käyvät kaupassa ja tuovat asiakkaan toiveiden mukaiset tuotteet kotiin. Kauppa-asiointi voidaan tehdä asiakkaan lähikauppaan tai muuhun sovittuun kauppaan. Autamme ja tuemme kauppalistan laatimisessa, palvelusuunnittelussa voidaan ottaa myös huomioon esim. jääkaapin siistiminen kauppa-asioiden yhteydessä, jolloin varmistamme että mahdollisesti vanhentuneet elintarvikkeet poistetaan uusien tilalta. Kauppa-asiointi voi olla muutakin kuin ruokakaupassa asiointia, meiltä voi tilata apua vaateostoksiin tai muiden hankintojen tekemiseen.  
-
----
-
-
-## Kotipalvelu Kukka Oy
-[www.kotipalvelukukka.fi](www.kotipalvelukukka.fi)
-### Hinta € 41.0 - 41.0  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkotipalvelukukka%40gmail.com%26serviceType%3Dcategory.shopping%26companyName%3DKotipalvelu+Kukka+Oy)  
-Hatanpään valtatie 6 B 17  
-33100 Tampere  
-0503225756  
-Asiakkaan tarpeen  mukaan hoidamme joko itsenäisesti tai asiakkaan kanssa yhdessä kaupassakäynnin, apteekkiasiat, lääkäriin saattaminen, ym..   
-  
 ---
 
 ## Apukolmio Oy

@@ -1,24 +1,6 @@
 # Ateriapalvelut
 
 
-## Menumat Oy
-[www.menumat.fi](www.menumat.fi)  
-### Hinta € 0.00 - 10.00
-### Palvelu laskutetaan kuukausittain jälkikäteen. Laskutus perustuu tilattuihin ruokiin, muita kuluja palvelusta ei synny.
-Kysy meiltä lisää tarkemmista verollisista hinnoista!
-
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djan.weppling%40menumat.fi%26serviceType%3Dcategory.meals%26companyName%3DMenumat+Oy)  
-Tikkurilantie 140 B  
-01530 Vantaa  
-020 796 1550  
-Etsitkö maukkaita aterioita kotiin, jotka sinä ja läheisesi voitte itse valita laajasta ruokavalikoimasta? Kaipaatko vaihtelua ja valinnanvapautta ruokiin ja ruokailuajankohtiin? Menumat on uusi suomalainen kotiateriapalvelu, jolla on jo yli 1500 tyytyväistä asiakasta noin 40 kunnan alueella. Palvelumme suosio perustuu siihen, että asiakkaamme saavat itsenäisesti päättää päivittäin, mitä ja milloin syövät. Meille asiakas on kaiken toiminnan lähtökohta ja palvelemme yksilöllisesti kaikkia asiakkaitamme siten, että he voisivat elää täyttä elämää omassa kodissaan mahdollisimman pitkään.   
-Palvelumme koostuu kolmesta osasta: ruoista, jotka valitaan itse ruokalistaltamme, ruokien kotiin toimituksesta ja asiakkaan kotiin toimitettavasta Menumatin palvelulaitteesta, joka takaa ruoan säilyvyyden ja turvallisuuden ruoan valmistuksesta aina lautaselle asti.   
-Ateriamme ovat Suomessa valmistettuja ja käytämme saatavuuden mukaan mahdollisimman paljon kotimaisia raaka-aineita. Ruokamme noudattaa suomalaisten makumieltymyksiä ja siinä on huomioitu kansallinen ruokaperinteemme. Ateriat ovat ravitsemuksellisesti tasapainoisia ja ikääntyneille suunniteltuja.  
-Palvelu on saatavilla koko Pirkanmaan alueella. Menumatin ateriapalvelussa ei ole määriteltyä sitoutumisaikaa - palveluamme voi kokeilla ja lopettaa heti ensimmäiset ateriat syötyään, mikäli ei jostain syystä ole tyytyväinen.  
-Olemme sinua varten - ota siis rohkeasti yhteyttä Menumatin asiakaspalveluun ja kysy lisää!
-
----
-
 ## Pirkanmaan Voimia Oy
 [https://voimia.fi](https://voimia.fi)  
 ### Hinta € 7.36 - 7.36
@@ -53,21 +35,6 @@ Mikäli aterioita ei vastaanoteta sovittuna aikana ja kuljetus edellä mainitust
 
 ---
 
-## Amurin Teon Tupa ry
-[www.teory.fi](www.teory.fi)  
-### Hinta € 35.00 - 37.00
-### Amurin Teon Tupa ry on yleishyödyllinen toimija, tästä syystä emme kuulu arvonlisäverorekisteriin. Tuntihintamme ovat arvonlisäverottomia.
-Minimihinta on vakituisille/säännöllisille siivoustilauksille ja maksimihinta on kertatilauksien hinta.
-
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dbirgitta.valli%40teory.fi%26serviceType%3Dcategory.meals%26companyName%3DAmurin+Teon+Tupa+ry)  
-Satakunnankatu 38  
-33210 Tampere  
-050 358 0072  
-Valmistettavat ateriat tai leivonnaiset suunnitellaan yhdessä asiakkaan kanssa. Teemme asiakkaan toiveiden mukaista ruokaa, mutta myös autamme ja neuvomme aterioiden suunnittelussa. Ruoanvalmistus tehdään asiakkaan omista tarvikkeista, tarvittaessa palvelemme myös kauppa-asioinnissa.  Ruoanvalmistusta asiakkaan kotona tekevät työntekijämme ovat kotitalousalan ammattilaisia ja he ovat suorittaneet hygieniapassin.   
-Hinnoittelu:Palvelun hinta määräytyy käytetyn ajan perusteella. Vähimmäisaika on 1 tunti.  
-Mikäli asiakas peruuttaa sovitun työn alle 3 arkipäivän sisällä veloitamme asiakkaalta 50% sovitusta siivousajasta, tämä ehto ei koske työn siirtämistä toiseen ajankohtaan.Asiakkaalle tehtävä palvelusuunnittelukäynti tai palvelusuunnitelman päivityskäynti on maksuton.  
-  
----  
 
 ## Ikifit Oy
 [www.ikifit.fi](www.ikifit.fi)  
@@ -96,51 +63,6 @@ Aterioiden valmistusta, pakkausta ja lämpötiloja seurataan jatkuvasti ja tiedo
 
 ---
 
-
-## Menumat Oy
-[www.menumat.fi](www.menumat.fi)
-### Hinta € 0.00 - 10.00
-### Palvelu laskutetaan kuukausittain jälkikäteen. Laskutus perustuu tilattuihin ruokiin, muita kuluja palvelusta ei synny.
-Kysy meiltä lisää tarkemmista verollisista hinnoista!
-  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Djan.weppling%40menumat.fi%26serviceType%3Dcategory.meals%26companyName%3DMenumat+Oy)  
-Tikkurilantie 140 B  
-01530 Vantaa  
-020 796 1550  
-Etsitkö maukkaita aterioita kotiin, jotka sinä ja läheisesi voitte itse valita laajasta  
-ruokavalikoimasta? Kaipaatko vaihtelua ja valinnanvapautta ruokiin ja  
-ruokailuajankohtiin? Menumat on uusi suomalainen kotiateriapalvelu, jolla  
-on jo yli 1500 tyytyväistä asiakasta noin 40 kunnan alueella. Palvelumme suosio  
-perustuu siihen, että asiakkaamme saavat itsenäisesti päättää päivittäin, mitä  
-ja milloin syövät. Meille asiakas on kaiken toiminnan lähtökohta ja palvelemme  
-yksilöllisesti kaikkia asiakkaitamme siten, että he voisivat elää täyttä elämää  
-omassa kodissaan mahdollisimman pitkään.   
-Palvelumme koostuu kolmesta osasta: ruoista, jotka valitaan itse ruokalistaltamme, ruokien kotiin toimituksesta ja asiakkaan kotiin toimitettavasta Menumatin palvelulaitteesta, joka takaa ruoan säilyvyyden ja turvallisuuden ruoan valmistuksesta aina lautaselle asti.   
-Ateriamme ovat Suomessa valmistettuja ja käytämme saatavuuden mukaan mahdollisimman paljon kotimaisia raaka-aineita. Ruokamme noudattaa suomalaisten  
-makumieltymyksiä ja siinä on huomioitu kansallinen ruokaperinteemme. Ateriat  
-ovat ravitsemuksellisesti tasapainoisia ja ikääntyneille suunniteltuja.  
-Palvelu on saatavilla koko Pirkanmaan alueella. Menumatin ateriapalvelussa ei ole  
-määriteltyä sitoutumisaikaa - palveluamme voi kokeilla ja lopettaa heti  
-ensimmäiset ateriat syötyään, mikäli ei jostain syystä ole tyytyväinen.  
-Olemme sinua varten - ota siis rohkeasti yhteyttä Menumatin asiakaspalveluun ja kysy  
-lisää!  
-
----
-
-## Mehiläinen Ateriaali Oy
-[www.mehilainen.fi](www.mehilainen.fi)  
-### Hinta € 7.40 - 8.70
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dteija.harjumaki%40mehilainen.fi%26serviceType%3Dcategory.meals%26companyName%3DMehil%C3%A4inen+Ateriaali+Oy)  
-Pohjoinen Hesperiankatu 17  
-00260 Helsinki  
-0205813660  
-Mehiläisen Ateriaalilla on yli 28 vuoden kokemus ikäihmisten, kuntoutujien,  
-lasten sekä muiden erityisryhmien ateriapalveluiden järjestämisestä eri  
-yksiköhin ja asiakkaiden omiin koteihin.Mehiläisen Ateriaalin tuotekehitys suunnittelee vaihtelevan kuuden viikon ruokalistan (asiakas voi valita useammasta vaihtoehdosta), jossa huomioidaan sesongit ja juhlapäivät. Ateriasuunnittelu pohjautuu Valtion ikääntyvien asiakkaiden ravitsemussuosituksiin. Omat kuljettajamme toimittavat ateriat koteihin.
-
-
----
-
 ## Koti- ja juhlapalvelu Docella
 [www.facebook.com/docella.fi](www.facebook.com/docella.fi)  
 ### Hinta € 36.00 - 39.00
@@ -150,19 +72,3 @@ Takamaantie 1 E 10
 33480 Ylöjärvi  
 040 570 1797  
 Haluatko syödä kotona tehtyä kotiruokaa einesten ja valmisaterioiden sijasta? Valmistan kanssasi tai sinulle toiveittesi mukaan maukasta ruokaa ja leivonnaisia. Myös kotikaljan valmistus onnistuu!  
-
----
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.00 - 36.00
-### 36e/h arkisin. Kaikki palveluni ovat alv0. 
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.meals%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Ruoanlaitto ja kaupassa asiointiLähihoitajan tuottama kotipalvelu joka sisältää ruoanlaiton ja kaupassa asioinnin. Asioin asiakkaan puolesta tai asiakkaan kanssa ruokakaupassa. Ruoanlaitto ja leivonta kuuluu myös palveluuni. Yhdellä käynnillä on mahdollista tehdä esimerkiksi useamman päivän annokset valmiiksi. Ikäihmisten ravitsemustila on usein heikko, koska valmisruoat eivät ole maistuvia ja niihin kyllästyy helposti. Valmistan ruokaa asiakkaan omien mieltymysten mukaan.   
-Palvelu on käytettävissä sopimuksen mukaan.   
-  
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  

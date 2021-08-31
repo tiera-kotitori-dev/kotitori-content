@@ -1,18 +1,6 @@
 # Terveyden- ja sairaanhoitopalvelut
 
 
-## PetraCare
-[www.petracare.fi](www.petracare.fi)  
-### Hinta € 60.00 - 60.00
-### Kotikäynti, Tampere
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dpetra.toiviainen%40gmail.com%26serviceType%3Dcategory.healthcare%26companyName%3DPetraCare)  
-Kyllikinraitti 6 C 46  
-33500 Tampere  
-045 624 7264  
-Lähihoitajan tekemät jalkojenhoidot koti- ja laitoskäynteinä sopimuksen mukaan.
-
----
-
 ## Ikifit Oy
 [www.ikifit.fi](www.ikifit.fi)  
 ### Hinta € 45.00 - 89.00
@@ -46,15 +34,4 @@ Puutarhakatu 37
 33230 Tampere  
 0207342650  
 Keskustelutukea on mahdollista saada psykiatrian erikoisairaanhoitajalta tai muistityöhön perehtyneeltä lähihoitajalta. Käynnit voivat olla yksittäisiä tai toistuvia.  
-
----
-
-## Hoiva Vitadi
-[www.vitadi.fi](www.vitadi.fi)  
-### Hinta € 25.00 - 50.00
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.healthcare%26companyName%3DHoiva+Vitadi)  
-Puuvillatehtaankatu 10  
-33210 Tampere  
-0440970703  
-Terveydenhuollolliset jalkahoidot jalkojenhoidon ammattitutkinnon suorittaneen lähihoitajan tekeminä
 

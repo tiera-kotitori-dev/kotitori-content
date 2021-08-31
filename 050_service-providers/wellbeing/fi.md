@@ -24,19 +24,6 @@ Hiustenleikkaus kotona naisille ja miehille. Pitkä työkokemus liiketyöstä ka
 
 ---
 
-
-## Hoiva Vitadi
-[www.vitadi.fi](www.vitadi.fi)
-### Hinta € 25.00 - 25.00  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dvitadi.forever%40gmail.com%26serviceType%3Dcategory.wellbeing%26companyName%3DHoiva+Vitadi)  
-Puuvillatehtaankatu 10  
-33210 Tampere  
-0440970703  
-Jalkahoidot kotikäyntinä ja hoitolassa. Hoitolaan pääse myös pyörätuolilla. Veteraanien jalkojenhoidot.  
-  
-  
----
-
 ## Ikifit Oy
 [www.ikifit.fi](www.ikifit.fi)
 ### Hinta € 55.00 - 55.00
@@ -72,34 +59,6 @@ Nuijatie 35 G 90
 Apunalle on sinun tai omaisesi seurana ja kaverina tarvittaessa. Apunalle lukee päivän lehden tai vaikkapa muutaman kappaleen lempikirjastasi, lähtee kaveriksi harrastuksiin tai kulttuuririentoihin. Kiireetöntä yhdessäoloa asiakkaan toiveiden mukaisesti.  
   
 ---
-
-
-## Hieronta- ja terveyspalvelut Janina Salmi
-[Www.hierontajaterveyspalvelutjaninasalmi.fi](Www.hierontajaterveyspalvelutjaninasalmi.fi)
-### Hinta € 36.00 - 36.00
-### Tuotan pelkästään alv0 palvelua.  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3DInfo%40hierontajaterveyspalvelutjaninasalmi.fi%26serviceType%3Dcategory.wellbeing%26companyName%3DHieronta-+ja+terveyspalvelut+Janina+Salmi)  
-Takamaantie 1 H 15  
-33480 YLÖJÄRVI  
-0405161055  
-Olen koulutukseltani vanhustyöhön erikoistunut lähihoitaja ja koulutettu hieroja. Tuotan monipuolista palvelua ikääntyneille. Seurustelu, lehtien lukeminen ja pelaaminen kuuluu osaksi palveluani. Yksinäisyys on suuri ongelma monelle ikääntyneelle. Haluan tuottaa aidosti hyvää ja asiakasta kunnioittavaa palvelua. Jokaisella käynnillä on sama tuttu hoitaja sovittuna ajankohtana.   
-  
-Palvelun hinta arkisin klo 08-17 36e/h. Hintaan lisätään matkakulut asiakkaan kotiin osoitteesta takamaantie 1, Ylöjärvi, paluumatkaa ei veloiteta. Matkakulu 0,43snt/km.  
-  
----
-
-## Kauneus- ja kynsistudio SaRa
-[www.vivan.fi](www.vivan.fi)
-### Hinta € 55.00 - 65.00
-### ALV 0%  
-[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkosmetologi%40vivan.fi%26serviceType%3Dcategory.wellbeing%26companyName%3DKauneus-+ja+kynsistudio+SaRa)  
-Kuokkamaantie 2b  
-33800 Tampere  
-0453421143  
-Perusjalkahoito: sisältää jalkojen kylvetyksen (mikäli se on mahdollista), kovettumien, känsien  ja pykimien poiston, kynsien leikkauksen ja ohentamisen, tarvittaessa copolinevanu ja villat yms ja jalkojen voitelun/ kevyen hieronnan jalkavoiteella, tarvittaessa ohjaus lääkäriin tai jalkaterapeutille. Hoito kestää noin tunnin, mikäli jalat ovat vaativat monine ongelmineen ja hoitoaika ylittää tunnin tulee 10e palvelulisä.Teen myös kotikäyntejä Pirkanmaan alueella, kotikäyntilisä 5-10€ matkan pituudesta riippuen.  
-
----
-
 
 ## Koti- ja juhlapalvelu Docella
 [www.facebook.com/docella.fi](www.facebook.com/docella.fi)
