@@ -149,3 +149,35 @@ Puutarhakatu 37
 0207342650  
 Sosiaaliohjaajan ja lähihoitajan työn sisältö on kotipalvelussa samanlainen. Sosiaaliohjaajan tuottamaan kotipalveluun kuuluu lähihoitajan tehtävien lisäksi  avun ja neuvonnan antaminen yhteiskunnan tarjoamien etuuksien hakemisessa mm: eläkettä saavan hoitotuki, asumistuki, omaishoidon tuki, kuljetuspalvelut, edunvalvontavaltuutus. Sosiaaliohjaaja auttaa myös kotitalousvähennyksen tekemisessa.  
 
+---
+
+## Sointu Senioripalvelut Oy
+[https://sointusenioripalvelut.fi/tukea-kotiin/](https://sointusenioripalvelut.fi/tukea-kotiin/)
+### Hinta € 41.35 - 41.35
+### ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelusta. Arkisin klo 7-18, 35.85 €/h. Arkisin klo 18-21, 40,65 €/h. Lauantaisin klo 7-18, 47,00 €/h, klo 18-21 49,35€. Sunnuntaisin lähihoitajan tekemä työ klo 7-18 66€/h klo 18-21, 74,90€/h. Palveluseteli tai maksusitoumus estää kotitalousvähennyksen. Ei henkilökuljetuspalvelua.
+ 
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkirsi-maria.hirsikanga%40sointusenioripalvelut.fi%26serviceType%3Dcategory.nursing%26companyName%3DSointu+Senioripalvelut+Oy)  
+Nuolialantie 46 D
+33900 Tampere  
+0509130278  
+
+Sointu Senioripalvelut Oy:ssä kotisairaanhoitoa toteutetaan joko lähihoitajan tai sairaanhoitajan toimesta. Kotisairaanhoito sisältää voi sisältää lääkehoidossa avustamista tai avustamista esimerkiksi reseptien uusimisessa. Lähihoitaja/sairaanhoitaja suorittaa myös haavanhoidot hoitavan lääkärin/terveyskeskuksen sairaanhoitajan kirjallisten ohjeiden mukaisesti sekä auttaa hoitotarvikkeiden hankinnassa. Asiakkaan vointia seurataan mm. mittaamalla verensokeria, verenpainetta, painoa, eritystoimintaa ja nautittujen nesteiden määrää. Käyntien yhteydessä huomioidaan lisäksi asiakkaan toimintakykyä ja siinä mahdollisesti tapahtuneita muutoksia, ihon kuntoa, turvotuksia ja kipua. Kotisairaanhoito sisältää myös sairaanhoitajan toteuttamaan erityishoitoa kuten hakasten/ompeleiden poistot, avannehoidot tai dreenien hoidot ym. Asiakkaan kanssa tehdään henkilökohtainen palvelusopimus, johon kirjataan hänen tarvitsemansa palvelut ja palvelusisällöt. Laskutus voimassa olevan hinnaston mukaan, minimilaskutus 15 min. Sairaanhoitajan tekemä työ alk. 41.35€/h.
+
+ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelusta. Kotitaloustyön vähennyksen saa sosiaalihuollon alaisesta kotipalvelusta, myös sairaanhoitajan tekemästä tavanomaisesta kotipalvelusta. Tuloverolain 127 a §:n 2 momentissa on säädetty, että kotitalousvähennykseen oikeuttavana tavanomaisena hoiva- ja hoitotyönä ei pidetä sellaisia terveyden- ja sairaudenhoitopalveluja joilla tarkoitetaan ihmisen terveydentilan sekä toiminta- ja työkyvyn määrittämiseksi taikka terveyden sekä toiminta- ja työkyvyn palauttamiseksi tai ylläpitämiseksi tehtäviä toimenpiteitä. Kilometrikorvaus 0,50 €/km 5 km:n ylittävästä matkasta. Lähtöpiste Nuolialantie 46, 33900 Tampere.
+
+---
+
+## Arjen Assistentti - Senioriapu Outi Isomäki
+[www.arjenassistentti.fi](www.arjenassistentti.fi)  
+### Hinta € 45.00 - 45.00
+### Suurin osa asiakkaistani on oikeutettu arvonlisäverottomaan hintaan.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Douti.isomaki%40yahoo.com%26serviceType%3Dcategory.nursing%26companyName%3DArjen+Assistentti)  
+Louhenkatu 17
+33960 Pirkkala
+040 066 0332
+
+Kotitaloustyöt, kuten ruoanlaitto, leivonta, vaatehuolto ja pienet kodin siistimistyöt. Minulla on kaikesta tästä yli 30 vuoden kokemus kolmen jo aikuisten pojan äitinä. Lisäksi apua löytyy mm. käsitöissä ja puutöissä (oma pieni puuverstas), tietotekniikan käytössä ja kirjallisissa töissä (myös englanti, ruotsi ja saksa) ja kaikessa mahdollisessa kulttuurielämään liittyvässä.
+
+Perusteellisemmat siivoustyöt ja ja ikkunanpesut jätän siivousalan ammattilaisille.
+
+Omaishoitajalle haluaisin myös tarjota vapaahetken huolehtimalla hänen omaisestaan sen aikaa. Alzheimer sekä MS-tauti ovat erityisesti tulleet tutuksi sekä oman isäni että työni kautta.

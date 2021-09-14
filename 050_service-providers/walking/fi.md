@@ -210,3 +210,37 @@ Kaukajärvi
 33710 Tampere  
 050 4058 548  
 Asiointi- ja saattoapu, esim. apteekki-, lääkäri-, harrastus- ja kauppakäynnit  
+
+---
+
+
+## Sointu Senioripalvelut Oy
+[https://sointusenioripalvelut.fi/tukea-kotiin/](https://sointusenioripalvelut.fi/tukea-kotiin/)
+### Hinta € 35.85 - 74.90
+### ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelusta. Arkisin klo 7-18, 35.85 €/h. Arkisin klo 18-21, 40,65 €/h. Lauantaisin klo 7-18, 47,00 €/h, klo 18-21 49,35€. Sunnuntaisin lähihoitajan tekemä työ klo 7-18 66€/h klo 18-21, 74,90€/h. Palveluseteli tai maksusitoumus estää kotitalousvähennyksen. Ei henkilökuljetuspalvelua.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkirsi-maria.hirsikanga%40sointusenioripalvelut.fi%26serviceType%3Dcategory.walking%26companyName%3DSointu+Senioripalvelut+Oy)  
+Nuolialantie 46 D
+33900 Tampere  
+0509130278  
+
+Sointu Senioripalvelut Oy:n kotipalveluita täydentää saatto- ja asiointiapu jolla mahdollistetaan asiakkaan tai omaishoitajan osallistuminen kodin ulkopuolisiin tapahtumiin. Asiakas saa juuri sellaisia palveluita, joita tarvitsee ja haluaa, kertaluonteisesti tai säännöllisesti. Palvelu sisältää ulkoilu- ja saattoapua harrasteisiin tai asioille kuten lääkäriin, kauppaan tai kampaajalle. Asiakkaan kanssa tehdään henkilökohtainen palvelusopimus, johon kirjataan hänen tarvitsemansa palvelut ja palvelusisällöt. Laskutus voimassa olevan hinnaston mukaan, minimilaskutus 15. min. Kotisairaanhoito on aina verotonta, kotipalvelun veroton hinta koskee säännöllistä kotipalvelua saavia asiakkaita. 
+
+Hoidamme myös asiakkaan kauppa-asiointeja osana kotipalvelua tai erillisenä palveluna. Avustamme tarvittaessa ostoslistan tekemisessä, suoritamme ostokset asiakkaan puolesta tai yhdessä hänen kanssaan, järjestämme ostokset paikoilleen asiakkaan niin toivoessa. Kauppa-asiointi voidaan tehdä asiakkaan lähikauppaan tai muuhun sovittuun kauppaan. Ei kuitenkaan henkilökuljetusta yhdessä kauppaan mentäessä.
+
+Kilometrikorvaus yli 5 km:n matkasta 0.50€/km. Lähtöpiste Nuolialantie 46, 33900 Tampere
+
+---
+
+## Arjen Assistentti - Senioriapu Outi Isomäki
+[www.arjenassistentti.fi](www.arjenassistentti.fi)  
+### Hinta € 36.00 - 36.00
+### Suurin osa asiakkaistani on oikeutettu arvonlisäverottomaan hintaan.
+[Jätä yhteydenottopyyntö](%23workflows%3Femail%3Douti.isomaki%40yahoo.com%26serviceType%3Dcategory.walking%26companyName%3DArjen+Assistentti)  
+Louhenkatu 17
+33960 Pirkkala
+040 066 0332
+
+
+
+
+
