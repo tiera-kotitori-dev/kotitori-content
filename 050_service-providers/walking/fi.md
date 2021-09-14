@@ -219,7 +219,7 @@ Asiointi- ja saattoapu, esim. apteekki-, lääkäri-, harrastus- ja kauppakäynn
 ### Hinta € 35.85 - 74.90
 ### ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelusta. Arkisin klo 7-18, 35.85 €/h. Arkisin klo 18-21, 40,65 €/h. Lauantaisin klo 7-18, 47,00 €/h, klo 18-21 49,35€. Sunnuntaisin lähihoitajan tekemä työ klo 7-18 66€/h klo 18-21, 74,90€/h. Palveluseteli tai maksusitoumus estää kotitalousvähennyksen. Ei henkilökuljetuspalvelua.
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkirsi-maria.hirsikanga%40sointusenioripalvelut.fi%26serviceType%3Dcategory.walking%26companyName%3DSointu+Senioripalvelut+Oy)  
-Nuolialantie 46 D
+Nuolialantie 46 D  
 33900 Tampere  
 0509130278  
 
@@ -236,9 +236,9 @@ Kilometrikorvaus yli 5 km:n matkasta 0.50€/km. Lähtöpiste Nuolialantie 46, 3
 ### Hinta € 36.00 - 36.00
 ### Suurin osa asiakkaistani on oikeutettu arvonlisäverottomaan hintaan.
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Douti.isomaki%40yahoo.com%26serviceType%3Dcategory.walking%26companyName%3DArjen+Assistentti)  
-Louhenkatu 17
-33960 Pirkkala
-040 066 0332
+Louhenkatu 17  
+33960 Pirkkala  
+040 066 0332  
 
 
 

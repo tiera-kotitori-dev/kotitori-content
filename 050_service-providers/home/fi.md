@@ -191,9 +191,10 @@ Teen kevyet pihatyöt.
 ### Hinta € 36.00 - 60.00
 ### Hinnat sisältävät mahdollisen arvonlisäveron 24 %
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Draila.arppe%40gmail.com%26serviceType%3Dcategory.home%26companyName%3DTampereen+seudun+kotiapu)  
-Mäkikatu 66 
-33250 Tampere
-045 112 7140
+Mäkikatu 66  
+33250 Tampere  
+045 112 7140  
+
 Hintamme sisältää matkakulut Tampereella, lukuunottamatta Teiskon aluetta jossa kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Tampereen ulkopuolella kilometrikorvaus 0,45€/km tai sopimuksen mukaan. Hinnat sisältävät mahdollisen arvonlisäveron 24 %. 
 
 ---
@@ -203,9 +204,9 @@ Hintamme sisältää matkakulut Tampereella, lukuunottamatta Teiskon aluetta jos
 ### Hinta € 45.00 - 45.00
 ### Suurin osa asiakkaistani on oikeutettu arvonlisäverottomaan hintaan.
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Douti.isomaki%40yahoo.com%26serviceType%3Dcategory.home%26companyName%3DArjen+Assistentti)  
-Louhenkatu 17
-33960 Pirkkala
-040 066 0332
+Louhenkatu 17  
+33960 Pirkkala  
+040 066 0332  
 
 ---
 
@@ -215,9 +216,9 @@ Louhenkatu 17
 ### Hinta € 30.00 - 35.00
 ### Kotikäyntien hinnat tamperelaisille kotitalouksille:\n\n1 tunti tai alle \t70 euroa + 1 €/km*\n1-1,5 tuntia \t80 euroa + 1 €/km*\n1,5-2 tuntia \t90 euroa + 1 €/km*\n\nLaitteiden kuljetuspalvelu\nMikäli tarvitset apua laitteiden kuljetuksessa, se onnistuu 20 €/suunta + 1 €/km* maksua vastaan.\n\n* = Veloitetaan molempiin suuntiin. Matkan pituus lasketaan eTupa Kalevasta (Itsenäisyydenkatu 25) karttaohjelmaa käyttäen. Sopimuksesta teemme kotikäyntejä myös Tampereen naapurikuntiin.
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dmail%40tampereentietokoneapu.fi%26serviceType%3Dcategory.home%26companyName%3DTampereen+Tietokoneapu)  
-Sammonkatu 68
-33540 Tampere
-045 7874 8447
+Sammonkatu 68  
+33540 Tampere  
+045 7874 8447  
 
 Käytönopastus ja huolto edulliseen hintaan seuraaville laitteille:
 * Tietokoneet ja ohjelmat (mm. sähköposti, internet, Word, Excel jne.) 

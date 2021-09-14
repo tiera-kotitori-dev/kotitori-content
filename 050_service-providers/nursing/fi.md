@@ -157,9 +157,9 @@ Sosiaaliohjaajan ja lähihoitajan työn sisältö on kotipalvelussa samanlainen.
 ### ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelusta. Arkisin klo 7-18, 35.85 €/h. Arkisin klo 18-21, 40,65 €/h. Lauantaisin klo 7-18, 47,00 €/h, klo 18-21 49,35€. Sunnuntaisin lähihoitajan tekemä työ klo 7-18 66€/h klo 18-21, 74,90€/h. Palveluseteli tai maksusitoumus estää kotitalousvähennyksen. Ei henkilökuljetuspalvelua.
  
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Dkirsi-maria.hirsikanga%40sointusenioripalvelut.fi%26serviceType%3Dcategory.nursing%26companyName%3DSointu+Senioripalvelut+Oy)  
-Nuolialantie 46 D
-33900 Tampere  
-0509130278  
+Nuolialantie 46 D  
+33900 Tampere   
+0509130278    
 
 Sointu Senioripalvelut Oy:ssä kotisairaanhoitoa toteutetaan joko lähihoitajan tai sairaanhoitajan toimesta. Kotisairaanhoito sisältää voi sisältää lääkehoidossa avustamista tai avustamista esimerkiksi reseptien uusimisessa. Lähihoitaja/sairaanhoitaja suorittaa myös haavanhoidot hoitavan lääkärin/terveyskeskuksen sairaanhoitajan kirjallisten ohjeiden mukaisesti sekä auttaa hoitotarvikkeiden hankinnassa. Asiakkaan vointia seurataan mm. mittaamalla verensokeria, verenpainetta, painoa, eritystoimintaa ja nautittujen nesteiden määrää. Käyntien yhteydessä huomioidaan lisäksi asiakkaan toimintakykyä ja siinä mahdollisesti tapahtuneita muutoksia, ihon kuntoa, turvotuksia ja kipua. Kotisairaanhoito sisältää myös sairaanhoitajan toteuttamaan erityishoitoa kuten hakasten/ompeleiden poistot, avannehoidot tai dreenien hoidot ym. Asiakkaan kanssa tehdään henkilökohtainen palvelusopimus, johon kirjataan hänen tarvitsemansa palvelut ja palvelusisällöt. Laskutus voimassa olevan hinnaston mukaan, minimilaskutus 15 min. Sairaanhoitajan tekemä työ alk. 41.35€/h.
 
@@ -172,9 +172,9 @@ ALV 0% terveyden- ja sairaanhoidon sekä sosiaalihuollon alaisesta kotipalvelust
 ### Hinta € 45.00 - 45.00
 ### Suurin osa asiakkaistani on oikeutettu arvonlisäverottomaan hintaan.
 [Jätä yhteydenottopyyntö](%23workflows%3Femail%3Douti.isomaki%40yahoo.com%26serviceType%3Dcategory.nursing%26companyName%3DArjen+Assistentti)  
-Louhenkatu 17
-33960 Pirkkala
-040 066 0332
+Louhenkatu 17  
+33960 Pirkkala  
+040 066 0332  
 
 Kotitaloustyöt, kuten ruoanlaitto, leivonta, vaatehuolto ja pienet kodin siistimistyöt. Minulla on kaikesta tästä yli 30 vuoden kokemus kolmen jo aikuisten pojan äitinä. Lisäksi apua löytyy mm. käsitöissä ja puutöissä (oma pieni puuverstas), tietotekniikan käytössä ja kirjallisissa töissä (myös englanti, ruotsi ja saksa) ja kaikessa mahdollisessa kulttuurielämään liittyvässä.
 
