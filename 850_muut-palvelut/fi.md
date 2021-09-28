@@ -1,4 +1,4 @@
-# Muut hoidot
+# Muut palvelut
 
 Muita asiakkaan hyvinvointia tukevia hoitoja on esimerkiksi:
 

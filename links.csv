@@ -1,5 +1,5 @@
 path,type,value,locale,description
-
+,,,,
 vaihtoehtohoitopalvelut,sp,alternatives,fi,service providers for alternatives
 hyvinvointeknologiapalvelut,sp,assistivedevice,fi,service providers for assistivedevice
 siivouspalvelut,sp,cleaning,fi,service providers for cleaning
@@ -15,5 +15,4 @@ turvapalvelut,sp,safety,fi,service providers for safety
 kauppapalvelut,sp,shopping,fi,service providers for shopping
 saattoapupalvelut,sp,walking,fi,service providers for walking
 henkilökohtaisen-hyvinvoinnin-palvelut,sp,wellbeing,fi,service providers for wellbeing
-
-,sp,others,fi,others
+muut-palvelut,sp,others,fi,service providers for others
